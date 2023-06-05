@@ -1,0 +1,1001 @@
+status_pemeriksaan;durasi;riwayat_kredit;tujuan_kredit;jumlah kredit;status_tabungan;pekerjaan;komitmen_cicilan;status_pribadi;pihak_lain;lama_tinggal;nilai_properti;usia;rencana_pembayaran_lainnya;tempat_tinggal;kredit_yang_ada;tipe_pekerja;jumlah_tanggungan;memiliki_ponsel;pekerja_asing;kelas
+<0;6;kredit penting/kredit lainnya;radio/tv;1169;tidak diketahui;>=7;4;pria lajang;tidak ada;4;perumahan;67;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+0<=X<200;48;berbayar yang ada;radio/tv;5951;<100;1;2;wanita bercerai/menikah;tidak ada;2;perumahan;22;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;pendidikan;2096;<100;4;2;pria lajang;tidak ada;3;perumahan;49;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+<0;42;berbayar yang ada;perabot/perlengkapan;7882;<100;4;2;pria lajang;penjamin;4;asuransi jiwa;45;tidak ada;gratis;1;terampil;2;tidak;ya;baik
+<0;24;sebelumnya tertunda;mobil baru;4870;<100;1;3;pria lajang;tidak ada;4;tidak diketahui;53;tidak ada;gratis;2;terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;36;berbayar yang ada;pendidikan;9055;tidak diketahui;1;2;pria lajang;tidak ada;4;tidak diketahui;35;tidak ada;gratis;1;tidak terampil;2;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;perabot/perlengkapan;2835;500;>=7;3;pria lajang;tidak ada;4;asuransi jiwa;53;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;36;berbayar yang ada;mobil bekas;6948;<100;1;2;pria lajang;tidak ada;2;mobil;35;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;3059;>=1000;4;2;pria bercerai;tidak ada;4;perumahan;61;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;30;kredit penting/kredit lainnya;mobil baru;5234;<100;tidak bekerja;4;pria menikah/duda;tidak ada;2;mobil;28;tidak ada;milik sendiri;2;kualifikasi tinggi;1;tidak;ya;buruk
+0<=X<200;12;berbayar yang ada;mobil baru;1295;<100;<1;3;wanita bercerai/menikah;tidak ada;1;mobil;25;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+<0;48;berbayar yang ada;bisnis;4308;<100;<1;3;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;24;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+0<=X<200;12;berbayar yang ada;radio/tv;1567;<100;1;1;wanita bercerai/menikah;tidak ada;1;mobil;22;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;24;kredit penting/kredit lainnya;mobil baru;1199;<100;>=7;4;pria lajang;tidak ada;4;mobil;60;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;buruk
+<0;15;berbayar yang ada;mobil baru;1403;<100;1;2;wanita bercerai/menikah;tidak ada;4;mobil;28;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+<0;24;berbayar yang ada;radio/tv;1282;100;1;4;wanita bercerai/menikah;tidak ada;2;mobil;32;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;radio/tv;2424;tidak diketahui;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;53;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;30;tidak ada kredit/kredit lunas;bisnis;8072;tidak diketahui;<1;2;pria lajang;tidak ada;3;mobil;25;bank;milik sendiri;3;terampil;1;tidak;ya;baik
+0<=X<200;24;berbayar yang ada;mobil bekas;12579;<100;>=7;4;wanita bercerai/menikah;tidak ada;2;tidak diketahui;44;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;3430;500;>=7;3;pria lajang;tidak ada;2;mobil;31;tidak ada;milik sendiri;1;terampil;2;ya;ya;baik
+tidak ada pemeriksaan;9;kredit penting/kredit lainnya;mobil baru;2134;<100;1;4;pria lajang;tidak ada;4;mobil;48;tidak ada;milik sendiri;3;terampil;1;ya;ya;baik
+<0;6;berbayar yang ada;radio/tv;2647;500;1;2;pria lajang;tidak ada;3;perumahan;44;tidak ada;sewa;1;terampil;2;tidak;ya;baik
+<0;10;kredit penting/kredit lainnya;mobil baru;2241;<100;<1;1;pria lajang;tidak ada;3;perumahan;48;tidak ada;sewa;2;tidak terampil;2;tidak;tidak;baik
+0<=X<200;12;kredit penting/kredit lainnya;mobil bekas;1804;100;<1;3;pria lajang;tidak ada;4;asuransi jiwa;44;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;10;kredit penting/kredit lainnya;perabot/perlengkapan;2069;tidak diketahui;1;2;pria menikah/duda;tidak ada;1;mobil;26;tidak ada;milik sendiri;2;terampil;1;tidak;tidak;baik
+<0;6;berbayar yang ada;perabot/perlengkapan;1374;<100;1;1;pria lajang;tidak ada;2;perumahan;36;bank;milik sendiri;1;tidak terampil;1;ya;ya;baik
+tidak ada pemeriksaan;6;tidak ada kredit/kredit lunas;radio/tv;426;<100;>=7;4;pria menikah/duda;tidak ada;4;mobil;39;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+>=200;12;lunas seluruhnya;radio/tv;409;>=1000;1;3;wanita bercerai/menikah;tidak ada;3;perumahan;42;tidak ada;sewa;2;terampil;1;tidak;ya;baik
+0<=X<200;7;berbayar yang ada;radio/tv;2415;<100;1;3;pria lajang;penjamin;2;perumahan;34;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;60;sebelumnya tertunda;bisnis;6836;<100;>=7;3;pria lajang;tidak ada;4;tidak diketahui;63;tidak ada;milik sendiri;2;terampil;1;ya;ya;buruk
+0<=X<200;18;berbayar yang ada;bisnis;1913;>=1000;<1;3;pria menikah/duda;tidak ada;3;perumahan;36;bank;milik sendiri;1;terampil;1;ya;ya;baik
+<0;24;berbayar yang ada;perabot/perlengkapan;4020;<100;1;2;pria lajang;tidak ada;2;mobil;27;toko;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;18;berbayar yang ada;mobil baru;5866;100;1;2;pria lajang;tidak ada;2;mobil;30;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;bisnis;1264;tidak diketahui;>=7;4;pria lajang;tidak ada;4;tidak diketahui;57;tidak ada;sewa;1;tidak terampil;1;tidak;ya;baik
+>=200;12;berbayar yang ada;perabot/perlengkapan;1474;<100;<1;4;wanita bercerai/menikah;tidak ada;1;asuransi jiwa;33;bank;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;45;kredit penting/kredit lainnya;radio/tv;4746;<100;<1;4;pria lajang;tidak ada;2;asuransi jiwa;25;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;48;kredit penting/kredit lainnya;pendidikan;6110;<100;1;1;pria lajang;tidak ada;3;tidak diketahui;31;bank;gratis;1;terampil;1;ya;ya;baik
+>=200;18;berbayar yang ada;radio/tv;2100;<100;1;4;pria lajang;pemohon bersama;2;perumahan;37;toko;milik sendiri;1;terampil;1;tidak;ya;buruk
+>=200;10;berbayar yang ada;peralatan rumah tangga;1225;<100;1;2;pria lajang;tidak ada;2;mobil;37;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;9;berbayar yang ada;radio/tv;458;<100;1;4;pria lajang;tidak ada;3;perumahan;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;30;berbayar yang ada;radio/tv;2333;500;>=7;4;pria lajang;tidak ada;2;mobil;30;bank;milik sendiri;1;kualifikasi tinggi;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;radio/tv;1158;500;1;3;pria bercerai;tidak ada;1;mobil;26;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;18;sebelumnya tertunda;perbaikan;6204;<100;1;2;pria lajang;tidak ada;4;perumahan;44;tidak ada;milik sendiri;1;tidak terampil;2;ya;ya;baik
+<0;30;kredit penting/kredit lainnya;mobil bekas;6187;100;4;1;pria menikah/duda;tidak ada;4;mobil;24;tidak ada;sewa;2;terampil;1;tidak;ya;baik
+<0;48;kredit penting/kredit lainnya;mobil bekas;6143;<100;>=7;4;wanita bercerai/menikah;tidak ada;4;tidak diketahui;58;toko;gratis;2;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;11;kredit penting/kredit lainnya;mobil baru;1393;<100;<1;4;wanita bercerai/menikah;tidak ada;4;mobil;35;tidak ada;milik sendiri;2;kualifikasi tinggi;1;tidak;ya;baik
+tidak ada pemeriksaan;36;berbayar yang ada;radio/tv;2299;500;>=7;4;pria lajang;tidak ada;4;mobil;39;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;6;berbayar yang ada;mobil bekas;1352;500;tidak bekerja;1;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;23;tidak ada;sewa;1;unemp/tidak terampil non res;1;ya;ya;baik
+tidak ada pemeriksaan;11;kredit penting/kredit lainnya;mobil baru;7228;<100;1;1;pria lajang;tidak ada;4;asuransi jiwa;39;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;2073;100;1;4;wanita bercerai/menikah;pemohon bersama;2;perumahan;28;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;24;sebelumnya tertunda;perabot/perlengkapan;2333;tidak diketahui;<1;4;pria lajang;tidak ada;2;asuransi jiwa;29;bank;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;27;sebelumnya tertunda;mobil bekas;5965;<100;>=7;1;pria lajang;tidak ada;2;mobil;30;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;1262;<100;1;3;pria lajang;tidak ada;2;mobil;25;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;mobil bekas;3378;tidak diketahui;1;2;pria lajang;tidak ada;1;asuransi jiwa;31;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;36;sebelumnya tertunda;mobil baru;2225;<100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;57;bank;gratis;2;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;6;lunas seluruhnya;mobil baru;783;tidak diketahui;1;1;pria lajang;penjamin;2;perumahan;26;toko;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;radio/tv;6468;tidak diketahui;tidak bekerja;2;pria lajang;tidak ada;1;tidak diketahui;52;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;36;kredit penting/kredit lainnya;radio/tv;9566;<100;1;2;wanita bercerai/menikah;tidak ada;2;mobil;31;toko;milik sendiri;2;terampil;1;tidak;ya;baik
+>=200;18;berbayar yang ada;mobil baru;1961;<100;>=7;3;wanita bercerai/menikah;tidak ada;2;mobil;23;tidak ada;milik sendiri;1;kualifikasi tinggi;1;tidak;ya;baik
+<0;36;kredit penting/kredit lainnya;perabot/perlengkapan;6229;<100;<1;4;wanita bercerai/menikah;pemohon bersama;4;tidak diketahui;23;tidak ada;sewa;2;tidak terampil;1;ya;ya;buruk
+0<=X<200;9;berbayar yang ada;bisnis;1391;<100;1;2;pria menikah/duda;tidak ada;1;perumahan;27;bank;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;15;kredit penting/kredit lainnya;radio/tv;1537;tidak diketahui;>=7;4;pria lajang;penjamin;4;perumahan;50;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+0<=X<200;36;tidak ada kredit/kredit lunas;bisnis;1953;<100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;61;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;buruk
+0<=X<200;48;tidak ada kredit/kredit lunas;bisnis;14421;<100;1;2;pria lajang;tidak ada;2;mobil;25;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;3181;<100;<1;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;26;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;27;berbayar yang ada;perbaikan;5190;tidak diketahui;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;48;tidak ada;milik sendiri;4;terampil;2;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;2171;<100;<1;2;wanita bercerai/menikah;tidak ada;2;mobil;29;bank;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;mobil baru;1007;>=1000;1;4;pria menikah/duda;tidak ada;1;perumahan;22;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;36;berbayar yang ada;pendidikan;1819;<100;1;4;pria lajang;tidak ada;4;tidak diketahui;37;toko;gratis;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;36;berbayar yang ada;radio/tv;2394;tidak diketahui;1;4;wanita bercerai/menikah;tidak ada;4;mobil;25;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;36;berbayar yang ada;mobil bekas;8133;<100;1;1;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;30;bank;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;7;kredit penting/kredit lainnya;radio/tv;730;tidak diketahui;>=7;4;pria lajang;tidak ada;2;asuransi jiwa;46;tidak ada;sewa;2;tidak terampil;1;ya;ya;baik
+<0;8;kredit penting/kredit lainnya;lainnya;1164;<100;>=7;3;pria lajang;tidak ada;4;tidak diketahui;51;bank;gratis;2;kualifikasi tinggi;2;ya;ya;baik
+0<=X<200;42;kredit penting/kredit lainnya;bisnis;5954;<100;4;2;wanita bercerai/menikah;tidak ada;1;perumahan;41;bank;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+<0;36;berbayar yang ada;pendidikan;1977;tidak diketahui;>=7;4;pria lajang;tidak ada;4;tidak diketahui;40;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+<0;12;kredit penting/kredit lainnya;mobil bekas;1526;<100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;66;tidak ada;gratis;2;kualifikasi tinggi;1;tidak;ya;baik
+<0;42;berbayar yang ada;radio/tv;3965;<100;<1;4;pria lajang;tidak ada;3;mobil;34;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;11;sebelumnya tertunda;radio/tv;4771;<100;4;2;pria lajang;tidak ada;4;asuransi jiwa;51;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;54;tidak ada kredit/kredit lunas;mobil bekas;9436;tidak diketahui;1;2;pria lajang;tidak ada;2;asuransi jiwa;39;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+0<=X<200;30;berbayar yang ada;perabot/perlengkapan;3832;<100;<1;2;pria menikah/duda;tidak ada;1;asuransi jiwa;22;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;5943;tidak diketahui;<1;1;wanita bercerai/menikah;tidak ada;1;mobil;44;tidak ada;milik sendiri;2;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;15;berbayar yang ada;radio/tv;1213;500;>=7;4;pria lajang;tidak ada;3;asuransi jiwa;47;toko;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;bisnis;1568;100;1;3;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;24;tidak ada;sewa;1;tidak terampil;1;tidak;ya;baik
+<0;24;berbayar yang ada;lainnya;1755;<100;>=7;4;wanita bercerai/menikah;penjamin;4;perumahan;58;tidak ada;milik sendiri;1;tidak terampil;1;ya;ya;baik
+<0;10;berbayar yang ada;radio/tv;2315;<100;>=7;3;pria lajang;tidak ada;4;perumahan;52;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;bisnis;1412;<100;1;4;wanita bercerai/menikah;penjamin;2;perumahan;29;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;18;kredit penting/kredit lainnya;perabot/perlengkapan;1295;<100;<1;4;wanita bercerai/menikah;tidak ada;1;asuransi jiwa;27;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;36;berbayar yang ada;pendidikan;12612;100;1;1;pria lajang;tidak ada;4;tidak diketahui;47;tidak ada;gratis;1;terampil;2;ya;ya;buruk
+<0;18;berbayar yang ada;mobil baru;2249;100;4;4;pria lajang;tidak ada;3;mobil;30;tidak ada;milik sendiri;1;kualifikasi tinggi;2;ya;ya;baik
+<0;12;tidak ada kredit/kredit lunas;perbaikan;1108;<100;4;4;pria lajang;tidak ada;3;perumahan;28;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;radio/tv;618;<100;>=7;4;pria lajang;tidak ada;4;perumahan;56;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;12;kredit penting/kredit lainnya;mobil bekas;1409;<100;>=7;4;pria lajang;tidak ada;3;perumahan;54;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;radio/tv;797;tidak diketahui;>=7;4;wanita bercerai/menikah;tidak ada;3;asuransi jiwa;33;bank;milik sendiri;1;tidak terampil;2;tidak;ya;buruk
+>=200;24;kredit penting/kredit lainnya;perabot/perlengkapan;3617;tidak diketahui;>=7;4;pria lajang;pemohon bersama;4;tidak diketahui;20;tidak ada;sewa;2;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;mobil baru;1318;>=1000;>=7;4;pria lajang;tidak ada;4;perumahan;54;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;54;tidak ada kredit/kredit lunas;bisnis;15945;<100;<1;3;pria lajang;tidak ada;4;tidak diketahui;58;tidak ada;sewa;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;pendidikan;2012;tidak diketahui;4;4;wanita bercerai/menikah;tidak ada;2;mobil;61;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;18;berbayar yang ada;bisnis;2622;100;1;4;pria lajang;tidak ada;4;mobil;34;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;36;kredit penting/kredit lainnya;radio/tv;2337;<100;>=7;4;pria lajang;tidak ada;4;perumahan;36;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;20;sebelumnya tertunda;mobil bekas;7057;tidak diketahui;4;3;pria lajang;tidak ada;4;asuransi jiwa;36;bank;sewa;2;kualifikasi tinggi;2;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;mobil baru;1469;100;>=7;4;pria menikah/duda;tidak ada;4;perumahan;41;tidak ada;sewa;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;36;berbayar yang ada;radio/tv;2323;<100;4;4;pria lajang;tidak ada;4;mobil;24;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;6;sebelumnya tertunda;radio/tv;932;<100;1;3;wanita bercerai/menikah;tidak ada;2;perumahan;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;9;kredit penting/kredit lainnya;perabot/perlengkapan;1919;<100;4;4;pria lajang;tidak ada;3;mobil;35;tidak ada;sewa;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;mobil bekas;2445;tidak diketahui;<1;2;pria menikah/duda;tidak ada;4;mobil;26;tidak ada;sewa;1;terampil;1;ya;ya;baik
+0<=X<200;24;kredit penting/kredit lainnya;lainnya;11938;<100;1;2;pria lajang;pemohon bersama;3;mobil;39;tidak ada;milik sendiri;2;kualifikasi tinggi;2;ya;ya;buruk
+tidak ada pemeriksaan;18;lunas seluruhnya;mobil baru;6458;<100;>=7;2;pria lajang;tidak ada;4;tidak diketahui;39;bank;milik sendiri;2;kualifikasi tinggi;2;ya;ya;buruk
+0<=X<200;12;berbayar yang ada;mobil baru;6078;<100;4;2;pria lajang;tidak ada;2;mobil;32;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;24;berbayar yang ada;perabot/perlengkapan;7721;tidak diketahui;<1;1;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;30;tidak ada;milik sendiri;1;terampil;1;ya;tidak;baik
+0<=X<200;14;berbayar yang ada;bisnis;1410;500;>=7;1;pria menikah/duda;tidak ada;2;perumahan;35;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;6;sebelumnya tertunda;bisnis;1449;100;>=7;1;pria bercerai;tidak ada;2;mobil;31;bank;milik sendiri;2;terampil;2;tidak;ya;baik
+>=200;15;berbayar yang ada;pendidikan;392;<100;<1;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;23;tidak ada;sewa;1;terampil;1;ya;ya;baik
+0<=X<200;18;berbayar yang ada;mobil baru;6260;<100;4;3;pria lajang;tidak ada;3;perumahan;28;tidak ada;sewa;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;36;kredit penting/kredit lainnya;mobil baru;7855;<100;1;4;wanita bercerai/menikah;tidak ada;2;perumahan;25;toko;milik sendiri;2;terampil;1;ya;ya;buruk
+<0;12;berbayar yang ada;radio/tv;1680;500;>=7;3;pria menikah/duda;tidak ada;1;perumahan;35;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;48;kredit penting/kredit lainnya;radio/tv;3578;tidak diketahui;>=7;4;pria lajang;tidak ada;1;perumahan;47;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;42;berbayar yang ada;radio/tv;7174;tidak diketahui;4;4;wanita bercerai/menikah;tidak ada;3;mobil;30;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+<0;10;kredit penting/kredit lainnya;perabot/perlengkapan;2132;tidak diketahui;<1;2;wanita bercerai/menikah;pemohon bersama;3;perumahan;27;tidak ada;sewa;2;terampil;1;tidak;tidak;baik
+<0;33;kredit penting/kredit lainnya;perabot/perlengkapan;4281;500;1;1;wanita bercerai/menikah;tidak ada;4;mobil;23;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+0<=X<200;12;kredit penting/kredit lainnya;mobil baru;2366;500;4;3;pria bercerai;tidak ada;3;mobil;36;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+<0;21;berbayar yang ada;radio/tv;1835;<100;1;3;wanita bercerai/menikah;tidak ada;2;perumahan;25;tidak ada;milik sendiri;2;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;mobil bekas;3868;<100;>=7;4;wanita bercerai/menikah;tidak ada;2;mobil;41;tidak ada;sewa;2;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;perabot/perlengkapan;1768;<100;1;3;pria lajang;tidak ada;2;perumahan;24;tidak ada;sewa;1;tidak terampil;1;tidak;ya;baik
+>=200;10;kredit penting/kredit lainnya;mobil baru;781;<100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;63;tidak ada;gratis;2;terampil;1;ya;ya;baik
+0<=X<200;18;berbayar yang ada;perabot/perlengkapan;1924;tidak diketahui;<1;4;wanita bercerai/menikah;tidak ada;3;perumahan;27;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+<0;12;kredit penting/kredit lainnya;mobil baru;2121;<100;1;4;pria lajang;tidak ada;2;asuransi jiwa;30;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;12;berbayar yang ada;radio/tv;701;<100;1;4;pria menikah/duda;tidak ada;2;perumahan;40;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;perbaikan;639;<100;1;4;pria lajang;tidak ada;2;mobil;30;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;12;kredit penting/kredit lainnya;mobil bekas;1860;<100;tidak bekerja;4;pria lajang;tidak ada;2;mobil;34;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+<0;12;kredit penting/kredit lainnya;mobil baru;3499;<100;1;3;wanita bercerai/menikah;pemohon bersama;2;perumahan;29;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+0<=X<200;48;berbayar yang ada;mobil baru;8487;tidak diketahui;4;1;wanita bercerai/menikah;tidak ada;2;mobil;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;36;sebelumnya tertunda;pendidikan;6887;<100;1;4;pria lajang;tidak ada;3;asuransi jiwa;29;toko;milik sendiri;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;15;berbayar yang ada;perabot/perlengkapan;2708;<100;<1;2;pria lajang;tidak ada;3;asuransi jiwa;27;bank;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;perabot/perlengkapan;1984;<100;1;4;pria lajang;tidak ada;4;tidak diketahui;47;bank;gratis;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;60;berbayar yang ada;radio/tv;10144;100;4;2;wanita bercerai/menikah;tidak ada;4;perumahan;21;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;radio/tv;1240;tidak diketahui;>=7;4;wanita bercerai/menikah;tidak ada;2;perumahan;38;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;27;sebelumnya tertunda;mobil bekas;8613;>=1000;1;2;pria lajang;tidak ada;2;mobil;27;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;radio/tv;766;500;1;4;pria lajang;tidak ada;3;perumahan;66;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+0<=X<200;15;kredit penting/kredit lainnya;radio/tv;2728;tidak diketahui;4;4;pria lajang;penjamin;2;perumahan;35;bank;milik sendiri;3;terampil;1;ya;ya;baik
+>=200;12;berbayar yang ada;radio/tv;1881;<100;1;2;wanita bercerai/menikah;tidak ada;2;mobil;44;tidak ada;sewa;1;tidak terampil;1;ya;ya;baik
+>=200;6;berbayar yang ada;mobil baru;709;>=1000;<1;2;pria menikah/duda;tidak ada;2;perumahan;27;tidak ada;milik sendiri;1;unemp/tidak terampil non res;1;tidak;tidak;baik
+0<=X<200;36;berbayar yang ada;radio/tv;4795;<100;<1;4;wanita bercerai/menikah;tidak ada;1;tidak diketahui;30;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+<0;27;berbayar yang ada;radio/tv;3416;<100;1;3;pria lajang;tidak ada;2;mobil;27;tidak ada;milik sendiri;1;kualifikasi tinggi;1;tidak;ya;baik
+<0;18;berbayar yang ada;perabot/perlengkapan;2462;<100;1;2;pria lajang;tidak ada;2;mobil;22;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;21;kredit penting/kredit lainnya;perabot/perlengkapan;2288;<100;<1;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;23;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;48;lunas seluruhnya;bisnis;3566;100;4;4;pria lajang;tidak ada;2;mobil;30;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;6;kredit penting/kredit lainnya;mobil baru;860;<100;>=7;1;wanita bercerai/menikah;tidak ada;4;tidak diketahui;39;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;mobil baru;682;100;4;4;wanita bercerai/menikah;tidak ada;3;mobil;51;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+<0;36;kredit penting/kredit lainnya;perabot/perlengkapan;5371;<100;1;3;pria lajang;penjamin;2;asuransi jiwa;28;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;radio/tv;1582;>=1000;>=7;4;pria lajang;tidak ada;4;mobil;46;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;6;berbayar yang ada;radio/tv;1346;100;>=7;2;pria lajang;tidak ada;4;tidak diketahui;42;bank;gratis;1;terampil;2;ya;ya;baik
+tidak ada pemeriksaan;10;berbayar yang ada;radio/tv;1924;<100;1;1;pria lajang;tidak ada;4;asuransi jiwa;38;tidak ada;milik sendiri;1;terampil;1;ya;tidak;baik
+>=200;36;berbayar yang ada;radio/tv;5848;<100;1;4;pria lajang;tidak ada;1;mobil;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;24;kredit penting/kredit lainnya;mobil bekas;7758;>=1000;>=7;2;wanita bercerai/menikah;tidak ada;4;tidak diketahui;29;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+0<=X<200;24;sebelumnya tertunda;bisnis;6967;100;4;4;pria lajang;tidak ada;4;mobil;36;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;baik
+<0;12;berbayar yang ada;perabot/perlengkapan;1282;<100;1;2;wanita bercerai/menikah;tidak ada;4;mobil;20;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+<0;9;kredit penting/kredit lainnya;perbaikan;1288;100;>=7;3;pria lajang;penjamin;4;perumahan;48;tidak ada;milik sendiri;2;terampil;2;tidak;tidak;baik
+<0;12;lunas seluruhnya;pengalihan karir;339;<100;>=7;4;pria menikah/duda;tidak ada;1;mobil;45;bank;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;24;berbayar yang ada;mobil baru;3512;100;4;2;pria lajang;tidak ada;3;mobil;38;bank;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;6;kredit penting/kredit lainnya;radio/tv;1898;tidak diketahui;1;1;pria lajang;tidak ada;2;perumahan;34;tidak ada;milik sendiri;2;tidak terampil;2;tidak;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;radio/tv;2872;100;>=7;3;pria lajang;tidak ada;4;perumahan;36;tidak ada;milik sendiri;1;terampil;2;ya;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;mobil baru;1055;<100;<1;4;wanita bercerai/menikah;tidak ada;1;asuransi jiwa;30;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;15;berbayar yang ada;peralatan rumah tangga;1262;500;4;4;pria lajang;tidak ada;3;asuransi jiwa;36;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+0<=X<200;10;berbayar yang ada;mobil baru;7308;<100;tidak bekerja;2;pria lajang;tidak ada;4;tidak diketahui;70;bank;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;36;berbayar yang ada;mobil baru;909;500;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;36;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;6;berbayar yang ada;perabot/perlengkapan;2978;500;1;1;pria lajang;tidak ada;2;mobil;32;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;18;berbayar yang ada;perabot/perlengkapan;1131;<100;tidak bekerja;4;wanita bercerai/menikah;tidak ada;2;mobil;33;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;11;berbayar yang ada;perabot/perlengkapan;1577;>=1000;<1;4;wanita bercerai/menikah;tidak ada;1;perumahan;20;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;perabot/perlengkapan;3972;<100;4;2;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;25;tidak ada;sewa;1;terampil;1;ya;ya;baik
+0<=X<200;24;kredit penting/kredit lainnya;bisnis;1935;<100;>=7;4;pria bercerai;tidak ada;4;perumahan;31;tidak ada;milik sendiri;2;terampil;1;ya;ya;buruk
+<0;15;tidak ada kredit/kredit lunas;mobil baru;950;<100;>=7;4;pria lajang;tidak ada;3;mobil;33;tidak ada;sewa;2;terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;perabot/perlengkapan;763;<100;1;4;wanita bercerai/menikah;tidak ada;1;perumahan;26;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;24;sebelumnya tertunda;perabot/perlengkapan;2064;<100;tidak bekerja;3;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;34;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+0<=X<200;8;berbayar yang ada;radio/tv;1414;<100;1;4;pria lajang;penjamin;2;perumahan;33;tidak ada;milik sendiri;1;terampil;1;tidak;tidak;baik
+<0;21;sebelumnya tertunda;pendidikan;3414;<100;<1;2;pria lajang;tidak ada;1;asuransi jiwa;26;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;30;lunas seluruhnya;mobil bekas;7485;tidak diketahui;tidak bekerja;4;wanita bercerai/menikah;tidak ada;1;perumahan;53;bank;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+<0;12;berbayar yang ada;perabot/perlengkapan;2577;<100;1;2;pria bercerai;tidak ada;1;mobil;42;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;6;kredit penting/kredit lainnya;radio/tv;338;500;>=7;4;pria lajang;tidak ada;4;mobil;52;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;1963;<100;4;4;pria lajang;tidak ada;2;mobil;31;tidak ada;sewa;2;kualifikasi tinggi;2;ya;ya;baik
+<0;21;kredit penting/kredit lainnya;mobil baru;571;<100;>=7;4;pria lajang;tidak ada;4;perumahan;65;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;36;sebelumnya tertunda;bisnis;9572;<100;<1;1;pria bercerai;tidak ada;1;mobil;28;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+0<=X<200;36;sebelumnya tertunda;bisnis;4455;<100;1;2;pria bercerai;tidak ada;2;perumahan;30;toko;milik sendiri;2;kualifikasi tinggi;1;ya;ya;buruk
+<0;21;lunas seluruhnya;mobil baru;1647;tidak diketahui;1;4;pria lajang;tidak ada;2;asuransi jiwa;40;tidak ada;milik sendiri;2;tidak terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;perabot/perlengkapan;3777;>=1000;1;4;pria lajang;tidak ada;4;perumahan;50;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;18;kredit penting/kredit lainnya;mobil baru;884;<100;>=7;4;pria lajang;tidak ada;4;mobil;36;bank;milik sendiri;1;terampil;2;ya;ya;buruk
+tidak ada pemeriksaan;15;kredit penting/kredit lainnya;radio/tv;1360;<100;1;4;pria lajang;tidak ada;2;asuransi jiwa;31;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;9;lunas seluruhnya;mobil bekas;5129;<100;>=7;2;wanita bercerai/menikah;tidak ada;4;tidak diketahui;74;bank;gratis;1;kualifikasi tinggi;2;ya;ya;buruk
+0<=X<200;16;kredit penting/kredit lainnya;mobil baru;1175;<100;tidak bekerja;2;pria lajang;tidak ada;3;mobil;68;tidak ada;gratis;3;unemp/tidak terampil non res;1;ya;ya;baik
+<0;12;berbayar yang ada;radio/tv;674;100;4;4;pria menikah/duda;tidak ada;1;asuransi jiwa;20;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;18;tidak ada kredit/kredit lunas;perabot/perlengkapan;3244;<100;1;1;wanita bercerai/menikah;tidak ada;4;mobil;33;bank;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;bisnis;4591;>=1000;1;2;pria lajang;tidak ada;3;asuransi jiwa;54;tidak ada;milik sendiri;3;kualifikasi tinggi;1;ya;ya;buruk
+0<=X<200;48;tidak ada kredit/kredit lunas;bisnis;3844;100;4;4;pria lajang;tidak ada;4;tidak diketahui;34;tidak ada;gratis;1;tidak terampil;2;tidak;ya;buruk
+0<=X<200;27;berbayar yang ada;bisnis;3915;<100;1;4;pria lajang;tidak ada;2;mobil;36;tidak ada;milik sendiri;1;terampil;2;ya;ya;buruk
+tidak ada pemeriksaan;6;berbayar yang ada;radio/tv;2108;<100;4;2;pria menikah/duda;tidak ada;2;perumahan;29;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+0<=X<200;45;berbayar yang ada;radio/tv;3031;100;1;4;pria lajang;penjamin;4;asuransi jiwa;21;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+0<=X<200;9;kredit penting/kredit lainnya;pendidikan;1501;<100;>=7;2;wanita bercerai/menikah;tidak ada;3;mobil;34;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;6;kredit penting/kredit lainnya;radio/tv;1382;<100;1;1;wanita bercerai/menikah;tidak ada;1;mobil;28;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+0<=X<200;12;berbayar yang ada;perabot/perlengkapan;951;100;<1;4;wanita bercerai/menikah;tidak ada;4;mobil;27;bank;sewa;4;terampil;1;tidak;ya;buruk
+0<=X<200;24;berbayar yang ada;mobil bekas;2760;tidak diketahui;>=7;4;pria lajang;tidak ada;4;tidak diketahui;36;bank;gratis;1;terampil;1;ya;ya;baik
+0<=X<200;18;sebelumnya tertunda;perabot/perlengkapan;4297;<100;>=7;4;pria bercerai;tidak ada;3;tidak diketahui;40;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;9;kredit penting/kredit lainnya;pendidikan;936;500;>=7;4;pria lajang;tidak ada;2;mobil;52;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+<0;12;berbayar yang ada;mobil baru;1168;<100;1;4;pria menikah/duda;tidak ada;3;perumahan;27;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;27;sebelumnya tertunda;bisnis;5117;<100;4;3;pria lajang;tidak ada;4;mobil;26;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;12;berbayar yang ada;pengalihan karir;902;<100;4;4;pria menikah/duda;tidak ada;4;asuransi jiwa;21;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;mobil baru;1495;<100;>=7;4;pria lajang;tidak ada;1;perumahan;38;tidak ada;milik sendiri;2;tidak terampil;2;tidak;ya;baik
+<0;30;kredit penting/kredit lainnya;mobil bekas;10623;<100;>=7;3;pria lajang;tidak ada;4;tidak diketahui;38;tidak ada;gratis;3;kualifikasi tinggi;2;ya;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;perabot/perlengkapan;1935;<100;>=7;4;pria lajang;tidak ada;4;perumahan;43;tidak ada;milik sendiri;3;terampil;1;ya;ya;baik
+0<=X<200;12;kredit penting/kredit lainnya;peralatan rumah tangga;1424;<100;4;4;pria lajang;tidak ada;3;asuransi jiwa;26;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;24;berbayar yang ada;bisnis;6568;<100;1;2;pria menikah/duda;tidak ada;2;mobil;21;toko;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;mobil bekas;1413;>=1000;4;3;pria lajang;tidak ada;2;asuransi jiwa;55;tidak ada;milik sendiri;1;terampil;1;tidak;tidak;baik
+tidak ada pemeriksaan;9;kredit penting/kredit lainnya;radio/tv;3074;tidak diketahui;1;1;pria lajang;tidak ada;2;perumahan;33;tidak ada;milik sendiri;2;terampil;2;tidak;ya;baik
+tidak ada pemeriksaan;36;berbayar yang ada;radio/tv;3835;tidak diketahui;>=7;2;wanita bercerai/menikah;tidak ada;4;perumahan;45;tidak ada;milik sendiri;1;tidak terampil;1;ya;ya;baik
+<0;27;tidak ada kredit/kredit lunas;bisnis;5293;<100;tidak bekerja;2;pria lajang;tidak ada;4;asuransi jiwa;50;toko;milik sendiri;2;terampil;1;ya;ya;buruk
+>=200;30;sebelumnya tertunda;bisnis;1908;<100;>=7;4;pria lajang;tidak ada;4;perumahan;66;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;36;kredit penting/kredit lainnya;radio/tv;3342;tidak diketahui;>=7;4;pria lajang;tidak ada;2;mobil;51;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;6;kredit penting/kredit lainnya;pengalihan karir;932;tidak diketahui;4;1;wanita bercerai/menikah;tidak ada;3;asuransi jiwa;39;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+<0;18;tidak ada kredit/kredit lunas;bisnis;3104;<100;4;3;pria lajang;tidak ada;1;asuransi jiwa;31;bank;milik sendiri;1;terampil;1;ya;ya;baik
+>=200;36;berbayar yang ada;radio/tv;3913;<100;1;2;pria lajang;tidak ada;2;perumahan;23;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;24;berbayar yang ada;perabot/perlengkapan;3021;<100;1;2;pria bercerai;tidak ada;2;perumahan;24;tidak ada;sewa;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;10;berbayar yang ada;mobil baru;1364;<100;1;2;wanita bercerai/menikah;tidak ada;4;mobil;64;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;12;berbayar yang ada;radio/tv;625;<100;<1;4;pria menikah/duda;penjamin;1;perumahan;26;bank;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+<0;12;berbayar yang ada;pendidikan;1200;tidak diketahui;1;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;23;bank;sewa;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;707;<100;1;4;pria lajang;tidak ada;2;perumahan;30;bank;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;sebelumnya tertunda;bisnis;2978;tidak diketahui;1;4;pria lajang;tidak ada;4;perumahan;32;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+tidak ada pemeriksaan;15;berbayar yang ada;mobil bekas;4657;<100;1;3;pria lajang;tidak ada;2;mobil;30;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;36;tidak ada kredit/kredit lunas;perbaikan;2613;<100;1;4;pria lajang;tidak ada;2;mobil;27;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;48;berbayar yang ada;radio/tv;10961;>=1000;4;1;pria lajang;pemohon bersama;2;tidak diketahui;27;bank;milik sendiri;2;terampil;1;ya;ya;buruk
+<0;12;berbayar yang ada;perabot/perlengkapan;7865;<100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;53;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;9;berbayar yang ada;radio/tv;1478;<100;4;4;pria lajang;tidak ada;2;mobil;22;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;24;berbayar yang ada;perabot/perlengkapan;3149;<100;<1;4;pria lajang;tidak ada;1;tidak diketahui;22;bank;gratis;1;terampil;1;tidak;ya;baik
+>=200;36;berbayar yang ada;radio/tv;4210;<100;1;4;pria lajang;tidak ada;2;mobil;26;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;9;berbayar yang ada;mobil baru;2507;500;>=7;2;pria lajang;tidak ada;4;tidak diketahui;51;tidak ada;gratis;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;2141;100;4;3;pria lajang;tidak ada;1;tidak diketahui;35;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;18;berbayar yang ada;radio/tv;866;<100;1;4;pria menikah/duda;penjamin;2;perumahan;25;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;4;kredit penting/kredit lainnya;radio/tv;1544;<100;4;2;pria lajang;tidak ada;1;perumahan;42;tidak ada;milik sendiri;3;tidak terampil;2;tidak;ya;baik
+<0;24;berbayar yang ada;radio/tv;1823;<100;tidak bekerja;4;pria lajang;tidak ada;2;mobil;30;toko;milik sendiri;1;kualifikasi tinggi;2;tidak;ya;buruk
+0<=X<200;6;berbayar yang ada;mobil baru;14555;tidak diketahui;tidak bekerja;1;pria lajang;tidak ada;2;asuransi jiwa;23;tidak ada;milik sendiri;1;unemp/tidak terampil non res;1;ya;ya;buruk
+0<=X<200;21;berbayar yang ada;bisnis;2767;100;>=7;4;pria bercerai;tidak ada;2;mobil;61;bank;sewa;2;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;radio/tv;1291;<100;1;4;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;35;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;30;berbayar yang ada;radio/tv;2522;<100;>=7;1;pria lajang;penjamin;3;asuransi jiwa;39;tidak ada;milik sendiri;1;terampil;2;tidak;ya;baik
+<0;24;berbayar yang ada;mobil baru;915;tidak diketahui;>=7;4;wanita bercerai/menikah;tidak ada;2;mobil;29;bank;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;6;berbayar yang ada;radio/tv;1595;<100;4;3;pria lajang;tidak ada;2;asuransi jiwa;51;tidak ada;milik sendiri;1;terampil;2;tidak;ya;baik
+<0;48;tidak ada kredit/kredit lunas;mobil bekas;4605;<100;>=7;3;pria lajang;tidak ada;4;tidak diketahui;24;tidak ada;gratis;2;terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;bisnis;1185;<100;1;3;wanita bercerai/menikah;tidak ada;2;perumahan;27;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;lunas seluruhnya;pengalihan karir;3447;500;1;4;wanita bercerai/menikah;tidak ada;3;perumahan;35;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;bisnis;1258;<100;4;4;pria lajang;tidak ada;1;perumahan;25;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;radio/tv;717;<100;>=7;4;pria lajang;tidak ada;4;perumahan;52;tidak ada;milik sendiri;3;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;6;tidak ada kredit/kredit lunas;mobil baru;1204;100;1;4;pria lajang;tidak ada;1;tidak diketahui;35;bank;sewa;1;terampil;1;tidak;tidak;baik
+>=200;24;berbayar yang ada;perabot/perlengkapan;1925;<100;1;2;pria lajang;tidak ada;2;perumahan;26;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;radio/tv;433;<100;tidak bekerja;3;wanita bercerai/menikah;pemohon bersama;4;perumahan;22;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+<0;6;kredit penting/kredit lainnya;mobil baru;666;>=1000;4;3;wanita bercerai/menikah;tidak ada;4;perumahan;39;tidak ada;milik sendiri;2;tidak terampil;1;ya;ya;baik
+>=200;12;berbayar yang ada;perabot/perlengkapan;2251;<100;1;1;wanita bercerai/menikah;tidak ada;2;mobil;46;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;30;berbayar yang ada;mobil baru;2150;<100;1;4;wanita bercerai/menikah;penjamin;2;tidak diketahui;24;bank;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;sebelumnya tertunda;perabot/perlengkapan;4151;100;1;2;pria lajang;tidak ada;3;asuransi jiwa;35;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;9;berbayar yang ada;perabot/perlengkapan;2030;tidak diketahui;4;2;pria lajang;tidak ada;1;mobil;24;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;60;sebelumnya tertunda;radio/tv;7418;tidak diketahui;1;1;pria lajang;tidak ada;1;perumahan;27;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;radio/tv;2684;<100;1;4;pria lajang;tidak ada;2;perumahan;35;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+<0;12;lunas seluruhnya;radio/tv;2149;<100;1;4;pria bercerai;tidak ada;1;tidak diketahui;29;tidak ada;gratis;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;15;berbayar yang ada;mobil bekas;3812;100;<1;1;wanita bercerai/menikah;tidak ada;4;mobil;23;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;11;kredit penting/kredit lainnya;radio/tv;1154;100;tidak bekerja;4;wanita bercerai/menikah;tidak ada;4;perumahan;57;tidak ada;milik sendiri;3;tidak terampil;1;tidak;ya;baik
+<0;12;berbayar yang ada;perabot/perlengkapan;1657;<100;1;2;pria lajang;tidak ada;2;perumahan;27;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;24;berbayar yang ada;radio/tv;1603;<100;>=7;4;wanita bercerai/menikah;tidak ada;4;mobil;55;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;18;kredit penting/kredit lainnya;mobil baru;5302;<100;>=7;2;pria lajang;tidak ada;4;tidak diketahui;36;tidak ada;gratis;3;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;pendidikan;2748;<100;>=7;2;wanita bercerai/menikah;tidak ada;4;tidak diketahui;57;bank;gratis;3;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;10;kredit penting/kredit lainnya;mobil baru;1231;<100;>=7;3;pria lajang;tidak ada;4;perumahan;32;tidak ada;milik sendiri;2;tidak terampil;2;tidak;tidak;baik
+0<=X<200;15;berbayar yang ada;radio/tv;802;<100;>=7;4;pria lajang;tidak ada;3;mobil;37;tidak ada;milik sendiri;1;terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;36;kredit penting/kredit lainnya;bisnis;6304;tidak diketahui;>=7;4;pria lajang;tidak ada;4;perumahan;36;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;1533;<100;<1;4;wanita bercerai/menikah;tidak ada;3;mobil;38;toko;milik sendiri;1;terampil;1;ya;ya;baik
+<0;14;berbayar yang ada;mobil baru;8978;<100;>=7;1;pria bercerai;tidak ada;4;asuransi jiwa;45;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;tidak;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;999;tidak diketahui;>=7;4;pria lajang;tidak ada;2;mobil;25;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;mobil baru;2662;tidak diketahui;4;4;pria lajang;tidak ada;3;asuransi jiwa;32;tidak ada;milik sendiri;1;terampil;1;tidak;tidak;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;perabot/perlengkapan;1402;500;4;3;wanita bercerai/menikah;tidak ada;4;mobil;37;tidak ada;sewa;1;terampil;1;ya;ya;baik
+0<=X<200;48;lunas seluruhnya;mobil baru;12169;tidak diketahui;tidak bekerja;4;pria lajang;pemohon bersama;4;tidak diketahui;36;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;48;berbayar yang ada;radio/tv;3060;<100;4;4;pria lajang;tidak ada;4;perumahan;28;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+<0;30;berbayar yang ada;perbaikan;11998;<100;<1;1;pria bercerai;tidak ada;1;tidak diketahui;34;tidak ada;milik sendiri;1;tidak terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;9;berbayar yang ada;radio/tv;2697;<100;1;1;pria lajang;tidak ada;2;perumahan;32;tidak ada;milik sendiri;1;terampil;2;tidak;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;radio/tv;2404;<100;1;2;wanita bercerai/menikah;tidak ada;2;mobil;26;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;12;berbayar yang ada;perabot/perlengkapan;1262;tidak diketahui;>=7;2;pria bercerai;tidak ada;4;asuransi jiwa;49;tidak ada;milik sendiri;1;tidak terampil;1;ya;ya;baik
+tidak ada pemeriksaan;6;berbayar yang ada;perabot/perlengkapan;4611;<100;<1;1;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;32;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;1901;100;1;4;pria lajang;tidak ada;4;mobil;29;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;15;kredit penting/kredit lainnya;mobil bekas;3368;>=1000;>=7;3;pria lajang;tidak ada;4;tidak diketahui;23;tidak ada;sewa;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;perabot/perlengkapan;1574;<100;1;4;pria lajang;tidak ada;2;perumahan;50;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+>=200;18;lunas seluruhnya;radio/tv;1445;tidak diketahui;4;4;pria lajang;tidak ada;4;mobil;49;bank;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;15;kredit penting/kredit lainnya;perabot/perlengkapan;1520;tidak diketahui;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;63;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;24;kredit penting/kredit lainnya;mobil baru;3878;100;<1;4;pria bercerai;tidak ada;2;mobil;37;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;47;berbayar yang ada;mobil baru;10722;<100;<1;1;wanita bercerai/menikah;tidak ada;1;perumahan;35;tidak ada;milik sendiri;1;tidak terampil;1;ya;ya;baik
+<0;48;berbayar yang ada;mobil bekas;4788;<100;4;4;pria lajang;tidak ada;3;asuransi jiwa;26;tidak ada;milik sendiri;1;terampil;2;tidak;ya;baik
+0<=X<200;48;sebelumnya tertunda;lainnya;7582;100;tidak bekerja;2;pria lajang;tidak ada;4;tidak diketahui;31;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;12;berbayar yang ada;radio/tv;1092;<100;1;4;wanita bercerai/menikah;penjamin;4;perumahan;49;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+<0;24;sebelumnya tertunda;radio/tv;1024;<100;<1;4;pria menikah/duda;tidak ada;4;perumahan;48;toko;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;bisnis;1076;<100;1;2;pria menikah/duda;tidak ada;2;perumahan;26;tidak ada;milik sendiri;1;terampil;1;ya;tidak;baik
+0<=X<200;36;berbayar yang ada;mobil bekas;9398;<100;<1;1;pria menikah/duda;tidak ada;4;mobil;28;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;buruk
+<0;24;kredit penting/kredit lainnya;mobil bekas;6419;<100;>=7;2;wanita bercerai/menikah;tidak ada;4;tidak diketahui;44;tidak ada;gratis;2;kualifikasi tinggi;2;ya;ya;baik
+>=200;42;kredit penting/kredit lainnya;mobil bekas;4796;<100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;56;tidak ada;gratis;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;48;kredit penting/kredit lainnya;bisnis;7629;tidak diketahui;>=7;4;pria bercerai;tidak ada;2;mobil;46;bank;milik sendiri;2;kualifikasi tinggi;2;tidak;ya;baik
+0<=X<200;48;berbayar yang ada;perabot/perlengkapan;9960;<100;<1;1;wanita bercerai/menikah;tidak ada;2;mobil;26;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;mobil bekas;4675;tidak diketahui;<1;1;wanita bercerai/menikah;tidak ada;4;mobil;20;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;10;berbayar yang ada;mobil baru;1287;tidak diketahui;>=7;4;pria lajang;pemohon bersama;2;asuransi jiwa;45;tidak ada;milik sendiri;1;tidak terampil;1;tidak;tidak;baik
+tidak ada pemeriksaan;18;berbayar yang ada;perabot/perlengkapan;2515;<100;1;3;pria lajang;tidak ada;4;perumahan;43;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;21;kredit penting/kredit lainnya;perabot/perlengkapan;2745;>=1000;4;3;pria lajang;tidak ada;2;mobil;32;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;6;berbayar yang ada;mobil baru;672;<100;tidak bekerja;1;wanita bercerai/menikah;tidak ada;4;perumahan;54;tidak ada;milik sendiri;1;unemp/tidak terampil non res;1;ya;ya;baik
+0<=X<200;36;tidak ada kredit/kredit lunas;radio/tv;3804;<100;1;4;wanita bercerai/menikah;tidak ada;1;mobil;42;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+>=200;24;kredit penting/kredit lainnya;mobil baru;1344;tidak diketahui;4;4;pria lajang;tidak ada;2;perumahan;37;bank;milik sendiri;2;tidak terampil;2;tidak;ya;buruk
+<0;10;kredit penting/kredit lainnya;mobil baru;1038;<100;4;4;pria lajang;pemohon bersama;3;asuransi jiwa;49;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;48;kredit penting/kredit lainnya;mobil baru;10127;500;1;2;pria lajang;tidak ada;2;tidak diketahui;44;bank;gratis;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;6;berbayar yang ada;perabot/perlengkapan;1543;>=1000;1;4;pria bercerai;tidak ada;2;perumahan;33;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;30;berbayar yang ada;mobil bekas;4811;tidak diketahui;4;2;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;24;toko;sewa;1;tidak terampil;1;tidak;ya;baik
+<0;12;berbayar yang ada;radio/tv;727;100;<1;4;pria menikah/duda;tidak ada;3;tidak diketahui;33;tidak ada;milik sendiri;1;tidak terampil;1;ya;ya;buruk
+0<=X<200;8;berbayar yang ada;perabot/perlengkapan;1237;<100;1;3;wanita bercerai/menikah;tidak ada;4;perumahan;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;9;berbayar yang ada;mobil baru;276;<100;1;4;pria menikah/duda;tidak ada;4;perumahan;22;tidak ada;sewa;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;48;berbayar yang ada;lainnya;5381;tidak diketahui;tidak bekerja;3;pria lajang;tidak ada;4;tidak diketahui;40;bank;gratis;1;unemp/tidak terampil non res;1;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;perabot/perlengkapan;5511;100;1;4;pria lajang;tidak ada;1;mobil;25;toko;milik sendiri;1;terampil;1;tidak;ya;baik
+>=200;24;berbayar yang ada;perabot/perlengkapan;3749;<100;<1;2;wanita bercerai/menikah;tidak ada;4;mobil;26;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;mobil baru;685;<100;4;2;pria menikah/duda;tidak ada;3;mobil;25;bank;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+>=200;4;berbayar yang ada;mobil baru;1494;tidak diketahui;<1;1;pria lajang;tidak ada;2;perumahan;29;tidak ada;milik sendiri;1;tidak terampil;2;tidak;tidak;baik
+<0;36;lunas seluruhnya;perabot/perlengkapan;2746;<100;>=7;4;pria lajang;tidak ada;4;mobil;31;bank;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;12;berbayar yang ada;perabot/perlengkapan;708;<100;1;2;pria lajang;penjamin;3;asuransi jiwa;38;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+0<=X<200;24;berbayar yang ada;perabot/perlengkapan;4351;tidak diketahui;1;1;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;48;tidak ada;milik sendiri;1;tidak terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;pendidikan;701;<100;1;4;pria lajang;tidak ada;2;mobil;32;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;15;sebelumnya tertunda;perabot/perlengkapan;3643;<100;>=7;1;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;27;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+0<=X<200;30;kredit penting/kredit lainnya;mobil baru;4249;<100;tidak bekerja;4;pria menikah/duda;tidak ada;2;mobil;28;tidak ada;milik sendiri;2;kualifikasi tinggi;1;tidak;ya;buruk
+<0;24;berbayar yang ada;radio/tv;1938;<100;<1;4;pria bercerai;tidak ada;3;asuransi jiwa;32;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;24;berbayar yang ada;mobil bekas;2910;<100;4;2;pria lajang;tidak ada;1;tidak diketahui;34;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+<0;18;berbayar yang ada;perabot/perlengkapan;2659;>=1000;1;4;pria lajang;tidak ada;2;mobil;28;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;mobil baru;1028;<100;1;4;wanita bercerai/menikah;tidak ada;3;perumahan;36;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;8;kredit penting/kredit lainnya;mobil baru;3398;<100;4;1;pria lajang;tidak ada;4;perumahan;39;tidak ada;milik sendiri;2;tidak terampil;1;tidak;tidak;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;perabot/perlengkapan;5801;tidak diketahui;>=7;2;pria lajang;tidak ada;4;asuransi jiwa;49;tidak ada;sewa;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;mobil baru;1525;>=1000;4;4;wanita bercerai/menikah;tidak ada;3;mobil;34;tidak ada;milik sendiri;1;terampil;2;ya;ya;baik
+>=200;36;berbayar yang ada;radio/tv;4473;<100;>=7;4;pria lajang;tidak ada;2;mobil;31;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;6;berbayar yang ada;radio/tv;1068;<100;>=7;4;pria lajang;tidak ada;4;mobil;28;tidak ada;milik sendiri;1;terampil;2;tidak;ya;baik
+<0;24;kredit penting/kredit lainnya;mobil bekas;6615;<100;tidak bekerja;2;pria lajang;tidak ada;4;tidak diketahui;75;tidak ada;gratis;2;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;pendidikan;1864;100;1;4;wanita bercerai/menikah;tidak ada;2;perumahan;30;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+0<=X<200;60;berbayar yang ada;mobil baru;7408;100;<1;4;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;24;tidak ada;milik sendiri;1;kualifikasi tinggi;1;tidak;ya;buruk
+tidak ada pemeriksaan;48;kredit penting/kredit lainnya;mobil bekas;11590;100;1;2;wanita bercerai/menikah;tidak ada;4;mobil;24;bank;sewa;2;tidak terampil;1;tidak;ya;buruk
+<0;24;tidak ada kredit/kredit lunas;perabot/perlengkapan;4110;<100;>=7;3;pria lajang;tidak ada;4;tidak diketahui;23;bank;sewa;2;terampil;2;tidak;ya;buruk
+<0;6;kredit penting/kredit lainnya;perabot/perlengkapan;3384;<100;1;1;pria bercerai;tidak ada;4;perumahan;44;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;buruk
+0<=X<200;13;berbayar yang ada;radio/tv;2101;<100;<1;2;wanita bercerai/menikah;penjamin;4;asuransi jiwa;23;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+<0;15;berbayar yang ada;peralatan rumah tangga;1275;tidak diketahui;1;4;wanita bercerai/menikah;tidak ada;2;mobil;24;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+<0;24;berbayar yang ada;perabot/perlengkapan;4169;<100;1;4;pria lajang;tidak ada;4;asuransi jiwa;28;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;10;berbayar yang ada;perabot/perlengkapan;1521;<100;1;4;pria bercerai;tidak ada;2;mobil;31;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;24;kredit penting/kredit lainnya;pendidikan;5743;<100;<1;2;wanita bercerai/menikah;tidak ada;4;tidak diketahui;24;tidak ada;gratis;2;terampil;1;ya;ya;baik
+<0;21;berbayar yang ada;perabot/perlengkapan;3599;<100;4;1;wanita bercerai/menikah;tidak ada;4;mobil;26;tidak ada;sewa;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;18;berbayar yang ada;radio/tv;3213;500;<1;1;pria menikah/duda;tidak ada;3;perumahan;25;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+0<=X<200;18;berbayar yang ada;bisnis;4439;<100;>=7;1;pria lajang;pemohon bersama;1;perumahan;33;bank;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+>=200;10;berbayar yang ada;mobil baru;3949;<100;<1;1;pria lajang;penjamin;1;asuransi jiwa;37;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+tidak ada pemeriksaan;15;kredit penting/kredit lainnya;radio/tv;1459;<100;1;4;wanita bercerai/menikah;tidak ada;2;mobil;43;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;13;kredit penting/kredit lainnya;radio/tv;882;<100;<1;4;pria lajang;penjamin;4;perumahan;23;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;24;berbayar yang ada;radio/tv;3758;500;tidak bekerja;1;wanita bercerai/menikah;tidak ada;4;tidak diketahui;23;tidak ada;sewa;1;unemp/tidak terampil non res;1;tidak;ya;baik
+tidak ada pemeriksaan;6;sebelumnya tertunda;bisnis;1743;100;1;1;pria lajang;tidak ada;2;perumahan;34;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+0<=X<200;9;kredit penting/kredit lainnya;pendidikan;1136;>=1000;>=7;4;pria lajang;tidak ada;3;tidak diketahui;32;tidak ada;gratis;2;terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;9;berbayar yang ada;peralatan rumah tangga;1236;<100;<1;1;wanita bercerai/menikah;tidak ada;4;perumahan;23;tidak ada;sewa;1;terampil;1;ya;ya;baik
+0<=X<200;9;berbayar yang ada;perabot/perlengkapan;959;<100;1;1;wanita bercerai/menikah;tidak ada;2;mobil;29;tidak ada;milik sendiri;1;terampil;1;tidak;tidak;buruk
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;mobil bekas;3229;tidak diketahui;tidak bekerja;2;pria lajang;tidak ada;4;tidak diketahui;38;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+<0;12;tidak ada kredit/kredit lunas;radio/tv;6199;<100;1;4;pria lajang;tidak ada;2;asuransi jiwa;28;tidak ada;sewa;2;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;10;berbayar yang ada;pendidikan;727;500;>=7;4;pria lajang;tidak ada;4;tidak diketahui;46;tidak ada;gratis;1;terampil;1;ya;ya;baik
+0<=X<200;24;berbayar yang ada;mobil baru;1246;<100;<1;4;pria lajang;tidak ada;2;perumahan;23;toko;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;radio/tv;2331;tidak diketahui;>=7;1;pria lajang;pemohon bersama;4;perumahan;49;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;36;sebelumnya tertunda;radio/tv;4463;<100;1;4;pria lajang;tidak ada;2;mobil;26;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;776;<100;1;4;pria menikah/duda;tidak ada;2;perumahan;28;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;30;berbayar yang ada;perabot/perlengkapan;2406;<100;4;4;wanita bercerai/menikah;tidak ada;4;perumahan;23;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+0<=X<200;18;berbayar yang ada;pendidikan;1239;tidak diketahui;1;4;pria lajang;tidak ada;4;tidak diketahui;61;tidak ada;gratis;1;terampil;1;tidak;ya;baik
+>=200;12;berbayar yang ada;radio/tv;3399;tidak diketahui;>=7;2;pria lajang;tidak ada;3;mobil;37;tidak ada;milik sendiri;1;kualifikasi tinggi;1;tidak;ya;baik
+>=200;12;sebelumnya tertunda;mobil baru;2247;<100;1;2;wanita bercerai/menikah;tidak ada;2;mobil;36;toko;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;6;berbayar yang ada;perabot/perlengkapan;1766;<100;1;1;pria menikah/duda;tidak ada;2;asuransi jiwa;21;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+<0;18;berbayar yang ada;perabot/perlengkapan;2473;<100;tidak bekerja;4;pria lajang;tidak ada;1;mobil;25;tidak ada;milik sendiri;1;unemp/tidak terampil non res;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;bisnis;1542;<100;4;2;pria lajang;tidak ada;4;mobil;36;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;mobil bekas;3850;<100;4;3;pria lajang;tidak ada;1;mobil;27;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;18;berbayar yang ada;perabot/perlengkapan;3650;<100;<1;1;wanita bercerai/menikah;tidak ada;4;mobil;22;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+<0;36;berbayar yang ada;perabot/perlengkapan;3446;<100;>=7;4;pria lajang;tidak ada;2;mobil;42;tidak ada;milik sendiri;1;terampil;2;tidak;ya;buruk
+0<=X<200;18;berbayar yang ada;perabot/perlengkapan;3001;<100;4;2;wanita bercerai/menikah;tidak ada;4;perumahan;40;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;36;berbayar yang ada;mobil baru;3079;tidak diketahui;1;4;pria lajang;tidak ada;4;perumahan;36;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;radio/tv;6070;<100;>=7;3;pria lajang;tidak ada;4;mobil;33;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;10;kredit penting/kredit lainnya;perabot/perlengkapan;2146;<100;<1;1;wanita bercerai/menikah;tidak ada;3;perumahan;23;tidak ada;sewa;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;60;kredit penting/kredit lainnya;mobil baru;13756;tidak diketahui;>=7;2;pria lajang;tidak ada;4;tidak diketahui;63;bank;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;60;lunas seluruhnya;lainnya;14782;100;>=7;3;wanita bercerai/menikah;tidak ada;4;tidak diketahui;60;bank;gratis;2;kualifikasi tinggi;1;ya;ya;buruk
+<0;48;lunas seluruhnya;bisnis;7685;<100;4;2;wanita bercerai/menikah;penjamin;4;mobil;37;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;18;sebelumnya tertunda;radio/tv;2320;<100;tidak bekerja;2;pria menikah/duda;tidak ada;3;perumahan;34;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;7;sebelumnya tertunda;radio/tv;846;tidak diketahui;>=7;3;pria lajang;tidak ada;4;tidak diketahui;36;tidak ada;gratis;1;terampil;1;tidak;ya;baik
+0<=X<200;36;berbayar yang ada;mobil baru;14318;<100;>=7;4;pria lajang;tidak ada;2;tidak diketahui;57;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;6;kredit penting/kredit lainnya;mobil baru;362;100;1;4;wanita bercerai/menikah;tidak ada;4;mobil;52;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+<0;20;berbayar yang ada;perabot/perlengkapan;2212;tidak diketahui;4;4;pria lajang;tidak ada;4;mobil;39;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;18;berbayar yang ada;mobil bekas;12976;<100;tidak bekerja;3;wanita bercerai/menikah;tidak ada;4;tidak diketahui;38;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;22;berbayar yang ada;mobil baru;1283;tidak diketahui;4;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;25;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+>=200;12;berbayar yang ada;mobil baru;1330;<100;<1;4;pria lajang;tidak ada;1;perumahan;26;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;30;sebelumnya tertunda;bisnis;4272;100;1;2;pria lajang;tidak ada;2;asuransi jiwa;26;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;radio/tv;2238;<100;1;2;wanita bercerai/menikah;tidak ada;1;mobil;25;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;radio/tv;1126;tidak diketahui;<1;4;wanita bercerai/menikah;tidak ada;2;perumahan;21;tidak ada;sewa;1;terampil;1;ya;ya;baik
+0<=X<200;18;kredit penting/kredit lainnya;perabot/perlengkapan;7374;<100;tidak bekerja;4;pria lajang;tidak ada;4;asuransi jiwa;40;toko;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;15;kredit penting/kredit lainnya;bisnis;2326;500;1;2;pria lajang;tidak ada;4;mobil;27;bank;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;9;berbayar yang ada;bisnis;1449;<100;4;3;wanita bercerai/menikah;tidak ada;2;mobil;27;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;mobil baru;1820;<100;1;2;pria menikah/duda;tidak ada;2;asuransi jiwa;30;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;12;berbayar yang ada;perabot/perlengkapan;983;>=1000;<1;1;wanita bercerai/menikah;tidak ada;4;perumahan;19;tidak ada;sewa;1;tidak terampil;1;tidak;ya;baik
+<0;36;berbayar yang ada;mobil baru;3249;<100;4;2;pria lajang;tidak ada;4;tidak diketahui;39;bank;gratis;1;kualifikasi tinggi;2;ya;ya;baik
+<0;6;kredit penting/kredit lainnya;radio/tv;1957;<100;4;1;wanita bercerai/menikah;tidak ada;4;mobil;31;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;9;kredit penting/kredit lainnya;perabot/perlengkapan;2406;<100;tidak bekerja;2;pria lajang;tidak ada;3;mobil;31;tidak ada;milik sendiri;1;kualifikasi tinggi;1;tidak;ya;baik
+0<=X<200;39;sebelumnya tertunda;pendidikan;11760;100;4;2;pria lajang;tidak ada;3;tidak diketahui;32;tidak ada;sewa;1;terampil;1;ya;ya;baik
+<0;12;berbayar yang ada;perabot/perlengkapan;2578;<100;tidak bekerja;3;wanita bercerai/menikah;tidak ada;4;tidak diketahui;55;tidak ada;gratis;1;kualifikasi tinggi;1;tidak;ya;baik
+<0;36;kredit penting/kredit lainnya;perabot/perlengkapan;2348;<100;1;3;pria menikah/duda;tidak ada;2;asuransi jiwa;46;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+0<=X<200;12;berbayar yang ada;mobil baru;1223;<100;>=7;1;pria bercerai;tidak ada;1;perumahan;46;tidak ada;sewa;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;radio/tv;1516;>=1000;1;4;wanita bercerai/menikah;tidak ada;1;perumahan;43;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;radio/tv;1473;<100;<1;3;pria menikah/duda;tidak ada;4;perumahan;39;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;18;kredit penting/kredit lainnya;bisnis;1887;tidak diketahui;1;4;pria menikah/duda;tidak ada;4;perumahan;28;bank;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;sebelumnya tertunda;bisnis;8648;<100;<1;2;pria lajang;tidak ada;2;mobil;27;bank;milik sendiri;2;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;14;sebelumnya tertunda;mobil baru;802;<100;1;4;pria lajang;tidak ada;2;mobil;27;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+0<=X<200;18;sebelumnya tertunda;mobil baru;2899;tidak diketahui;>=7;4;pria lajang;tidak ada;4;mobil;43;tidak ada;milik sendiri;1;terampil;2;tidak;ya;baik
+0<=X<200;24;berbayar yang ada;radio/tv;2039;<100;<1;1;pria menikah/duda;tidak ada;1;asuransi jiwa;22;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;mobil bekas;2197;tidak diketahui;4;4;pria lajang;tidak ada;4;mobil;43;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+<0;15;berbayar yang ada;radio/tv;1053;<100;<1;4;pria menikah/duda;tidak ada;2;perumahan;27;tidak ada;milik sendiri;1;terampil;1;tidak;tidak;baik
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;3235;500;>=7;3;pria bercerai;tidak ada;2;mobil;26;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+>=200;12;kredit penting/kredit lainnya;mobil baru;939;500;4;4;pria menikah/duda;tidak ada;2;perumahan;28;tidak ada;milik sendiri;3;terampil;1;ya;ya;buruk
+0<=X<200;24;berbayar yang ada;radio/tv;1967;<100;>=7;4;wanita bercerai/menikah;tidak ada;4;mobil;20;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;33;kredit penting/kredit lainnya;mobil bekas;7253;<100;4;3;pria lajang;tidak ada;2;mobil;35;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;bisnis;2292;<100;tidak bekerja;4;pria lajang;tidak ada;2;mobil;42;toko;milik sendiri;2;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;10;berbayar yang ada;mobil baru;1597;500;1;3;pria lajang;tidak ada;2;tidak diketahui;40;tidak ada;sewa;1;tidak terampil;2;tidak;tidak;baik
+<0;24;berbayar yang ada;mobil baru;1381;tidak diketahui;1;4;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;35;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;36;kredit penting/kredit lainnya;mobil bekas;5842;<100;>=7;2;pria lajang;tidak ada;2;asuransi jiwa;35;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+<0;12;berbayar yang ada;mobil baru;2579;<100;<1;4;pria lajang;tidak ada;1;perumahan;33;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;buruk
+<0;18;sebelumnya tertunda;pendidikan;8471;tidak diketahui;1;1;wanita bercerai/menikah;tidak ada;2;mobil;23;tidak ada;sewa;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;21;berbayar yang ada;mobil baru;2782;500;4;1;wanita bercerai/menikah;tidak ada;2;mobil;31;bank;milik sendiri;1;kualifikasi tinggi;1;tidak;ya;baik
+0<=X<200;18;berbayar yang ada;mobil baru;1042;tidak diketahui;1;4;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;33;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;15;berbayar yang ada;mobil baru;3186;>=1000;4;2;wanita bercerai/menikah;tidak ada;3;mobil;20;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;mobil bekas;2028;tidak diketahui;1;4;pria lajang;tidak ada;2;mobil;30;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;12;kredit penting/kredit lainnya;mobil baru;958;<100;4;2;pria lajang;tidak ada;3;perumahan;47;tidak ada;milik sendiri;2;tidak terampil;2;tidak;ya;baik
+tidak ada pemeriksaan;21;sebelumnya tertunda;perabot/perlengkapan;1591;100;4;4;pria lajang;tidak ada;3;perumahan;34;tidak ada;milik sendiri;2;kualifikasi tinggi;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;perabot/perlengkapan;2762;tidak diketahui;>=7;1;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;25;bank;milik sendiri;1;terampil;1;ya;ya;buruk
+0<=X<200;18;berbayar yang ada;mobil bekas;2779;<100;1;1;pria menikah/duda;tidak ada;3;mobil;21;tidak ada;sewa;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;28;kredit penting/kredit lainnya;radio/tv;2743;<100;>=7;4;pria lajang;tidak ada;2;mobil;29;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;radio/tv;1149;>=1000;1;4;pria lajang;tidak ada;3;perumahan;46;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;9;berbayar yang ada;perabot/perlengkapan;1313;<100;>=7;1;pria lajang;tidak ada;4;mobil;20;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;18;kredit penting/kredit lainnya;perbaikan;1190;<100;tidak bekerja;2;wanita bercerai/menikah;tidak ada;4;tidak diketahui;55;tidak ada;gratis;3;unemp/tidak terampil non res;2;tidak;ya;buruk
+tidak ada pemeriksaan;5;berbayar yang ada;bisnis;3448;<100;4;1;pria lajang;tidak ada;4;perumahan;74;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;24;berbayar yang ada;lainnya;11328;<100;1;2;pria lajang;pemohon bersama;3;mobil;29;bank;milik sendiri;2;kualifikasi tinggi;1;ya;ya;buruk
+<0;6;kredit penting/kredit lainnya;perabot/perlengkapan;1872;<100;tidak bekerja;4;pria lajang;tidak ada;4;tidak diketahui;36;tidak ada;gratis;3;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;perbaikan;2058;<100;1;4;pria bercerai;tidak ada;2;perumahan;33;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+<0;9;berbayar yang ada;perabot/perlengkapan;2136;<100;1;3;pria lajang;tidak ada;2;perumahan;25;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;radio/tv;1484;tidak diketahui;1;2;pria menikah/duda;tidak ada;1;perumahan;25;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;6;berbayar yang ada;perbaikan;660;500;4;2;pria menikah/duda;tidak ada;4;perumahan;23;tidak ada;sewa;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;mobil baru;1287;>=1000;>=7;4;wanita bercerai/menikah;tidak ada;4;perumahan;37;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+<0;42;kredit penting/kredit lainnya;perbaikan;3394;<100;tidak bekerja;4;pria lajang;pemohon bersama;4;mobil;65;tidak ada;milik sendiri;2;unemp/tidak terampil non res;1;tidak;ya;baik
+>=200;12;lunas seluruhnya;bisnis;609;<100;<1;4;wanita bercerai/menikah;tidak ada;1;perumahan;26;tidak ada;milik sendiri;1;unemp/tidak terampil non res;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;mobil baru;1884;<100;>=7;4;pria lajang;tidak ada;4;mobil;39;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+<0;12;berbayar yang ada;perabot/perlengkapan;1620;<100;1;2;wanita bercerai/menikah;pemohon bersama;3;asuransi jiwa;30;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;20;sebelumnya tertunda;lainnya;2629;<100;1;2;pria lajang;tidak ada;3;mobil;29;bank;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;pendidikan;719;<100;>=7;4;pria lajang;tidak ada;4;mobil;41;bank;milik sendiri;1;tidak terampil;2;tidak;ya;buruk
+0<=X<200;48;kredit penting/kredit lainnya;perabot/perlengkapan;5096;<100;1;2;wanita bercerai/menikah;tidak ada;3;mobil;30;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;9;kredit penting/kredit lainnya;pendidikan;1244;tidak diketahui;>=7;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;41;tidak ada;sewa;2;tidak terampil;1;tidak;ya;baik
+<0;36;berbayar yang ada;mobil baru;1842;<100;<1;4;wanita bercerai/menikah;tidak ada;4;mobil;34;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+0<=X<200;7;berbayar yang ada;radio/tv;2576;<100;1;2;pria lajang;penjamin;2;perumahan;35;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+>=200;12;berbayar yang ada;perabot/perlengkapan;1424;tidak diketahui;>=7;3;wanita bercerai/menikah;tidak ada;4;perumahan;55;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;15;sebelumnya tertunda;perbaikan;1512;>=1000;1;3;pria menikah/duda;tidak ada;3;asuransi jiwa;61;toko;milik sendiri;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;36;kredit penting/kredit lainnya;mobil bekas;11054;tidak diketahui;1;4;pria lajang;tidak ada;2;mobil;30;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;6;berbayar yang ada;radio/tv;518;<100;1;3;wanita bercerai/menikah;tidak ada;1;perumahan;29;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;tidak ada kredit/kredit lunas;perabot/perlengkapan;2759;<100;>=7;2;pria lajang;tidak ada;4;asuransi jiwa;34;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;mobil bekas;2670;<100;>=7;4;pria lajang;tidak ada;4;mobil;35;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+<0;24;berbayar yang ada;mobil baru;4817;<100;4;2;pria lajang;pemohon bersama;3;asuransi jiwa;31;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;mobil bekas;2679;<100;<1;4;wanita bercerai/menikah;tidak ada;1;tidak diketahui;29;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+<0;11;kredit penting/kredit lainnya;mobil baru;3905;<100;1;2;pria lajang;tidak ada;2;perumahan;36;tidak ada;sewa;2;terampil;2;tidak;ya;baik
+<0;12;berbayar yang ada;mobil bekas;3386;<100;>=7;3;pria lajang;tidak ada;4;tidak diketahui;35;tidak ada;gratis;1;terampil;1;ya;ya;buruk
+<0;6;berbayar yang ada;peralatan rumah tangga;343;<100;<1;4;wanita bercerai/menikah;tidak ada;1;perumahan;27;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;radio/tv;4594;<100;<1;3;pria lajang;tidak ada;2;mobil;32;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;36;berbayar yang ada;perabot/perlengkapan;3620;<100;1;1;pria lajang;penjamin;2;asuransi jiwa;37;tidak ada;milik sendiri;1;terampil;2;tidak;ya;baik
+<0;15;berbayar yang ada;mobil baru;1721;<100;<1;2;pria lajang;tidak ada;3;perumahan;36;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;perabot/perlengkapan;3017;<100;<1;3;wanita bercerai/menikah;tidak ada;1;perumahan;34;tidak ada;sewa;1;kualifikasi tinggi;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;pengalihan karir;754;tidak diketahui;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;38;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;bisnis;1950;<100;4;4;pria lajang;tidak ada;1;mobil;34;toko;milik sendiri;2;terampil;1;ya;ya;baik
+<0;24;berbayar yang ada;mobil bekas;2924;<100;1;3;pria lajang;penjamin;4;tidak diketahui;63;bank;milik sendiri;1;terampil;2;ya;ya;baik
+<0;24;sebelumnya tertunda;radio/tv;1659;<100;<1;4;wanita bercerai/menikah;tidak ada;2;mobil;29;tidak ada;sewa;1;tidak terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;48;sebelumnya tertunda;radio/tv;7238;tidak diketahui;>=7;3;pria lajang;tidak ada;3;mobil;32;bank;milik sendiri;2;terampil;2;tidak;ya;baik
+tidak ada pemeriksaan;33;sebelumnya tertunda;bisnis;2764;<100;1;2;wanita bercerai/menikah;tidak ada;2;mobil;26;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;24;sebelumnya tertunda;mobil bekas;4679;<100;4;3;pria lajang;tidak ada;3;mobil;35;tidak ada;milik sendiri;2;tidak terampil;1;ya;ya;baik
+0<=X<200;24;berbayar yang ada;radio/tv;3092;100;<1;3;pria menikah/duda;tidak ada;2;mobil;22;tidak ada;sewa;1;terampil;1;ya;ya;buruk
+<0;6;berbayar yang ada;pendidikan;448;<100;<1;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;23;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;9;berbayar yang ada;mobil baru;654;<100;1;4;pria lajang;tidak ada;3;mobil;28;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;6;berbayar yang ada;pengalihan karir;1238;tidak diketahui;tidak bekerja;4;pria lajang;tidak ada;4;asuransi jiwa;36;tidak ada;milik sendiri;1;kualifikasi tinggi;2;ya;ya;baik
+0<=X<200;18;kredit penting/kredit lainnya;radio/tv;1245;<100;1;4;pria menikah/duda;tidak ada;2;mobil;33;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;18;tidak ada kredit/kredit lunas;perabot/perlengkapan;3114;<100;<1;1;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;26;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;39;berbayar yang ada;mobil bekas;2569;500;1;4;pria lajang;tidak ada;4;mobil;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+>=200;24;berbayar yang ada;radio/tv;5152;<100;4;4;pria lajang;tidak ada;2;mobil;25;bank;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;bisnis;1037;100;4;3;pria lajang;tidak ada;4;perumahan;39;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+<0;15;kredit penting/kredit lainnya;perabot/perlengkapan;1478;<100;>=7;4;pria lajang;tidak ada;4;mobil;44;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+0<=X<200;12;kredit penting/kredit lainnya;radio/tv;3573;<100;1;1;wanita bercerai/menikah;tidak ada;1;perumahan;23;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;24;berbayar yang ada;mobil baru;1201;<100;<1;4;pria lajang;tidak ada;1;asuransi jiwa;26;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;30;berbayar yang ada;perabot/perlengkapan;3622;>=1000;>=7;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;57;tidak ada;sewa;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;15;sebelumnya tertunda;perabot/perlengkapan;960;>=1000;4;3;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;30;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;mobil baru;1163;500;1;4;pria lajang;tidak ada;4;perumahan;44;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;6;sebelumnya tertunda;mobil baru;1209;<100;tidak bekerja;4;pria lajang;tidak ada;4;asuransi jiwa;47;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;3077;<100;1;2;pria lajang;tidak ada;4;mobil;52;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;mobil baru;3757;<100;>=7;4;wanita bercerai/menikah;pemohon bersama;4;tidak diketahui;62;tidak ada;gratis;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;10;berbayar yang ada;mobil baru;1418;100;1;3;pria lajang;tidak ada;2;perumahan;35;tidak ada;sewa;1;tidak terampil;1;tidak;tidak;baik
+tidak ada pemeriksaan;6;berbayar yang ada;mobil baru;3518;<100;1;2;pria lajang;penjamin;3;asuransi jiwa;26;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;radio/tv;1934;<100;>=7;2;pria lajang;tidak ada;2;tidak diketahui;26;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;27;tidak ada kredit/kredit lunas;bisnis;8318;<100;>=7;2;wanita bercerai/menikah;tidak ada;4;tidak diketahui;42;tidak ada;gratis;2;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;6;kredit penting/kredit lainnya;radio/tv;1237;100;1;1;wanita bercerai/menikah;tidak ada;1;asuransi jiwa;27;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;6;berbayar yang ada;radio/tv;368;tidak diketahui;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;38;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;12;kredit penting/kredit lainnya;mobil baru;2122;<100;1;3;pria lajang;tidak ada;2;perumahan;39;tidak ada;sewa;2;tidak terampil;2;tidak;tidak;baik
+<0;24;berbayar yang ada;perabot/perlengkapan;2996;tidak diketahui;1;2;pria menikah/duda;tidak ada;4;mobil;20;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;36;berbayar yang ada;perabot/perlengkapan;9034;100;<1;4;pria lajang;pemohon bersama;1;tidak diketahui;29;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;perabot/perlengkapan;1585;<100;4;4;pria lajang;tidak ada;3;asuransi jiwa;40;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;18;berbayar yang ada;radio/tv;1301;<100;>=7;4;pria menikah/duda;penjamin;2;perumahan;32;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+>=200;6;kredit penting/kredit lainnya;mobil baru;1323;100;>=7;2;pria bercerai;tidak ada;4;mobil;28;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+<0;24;berbayar yang ada;mobil baru;3123;<100;<1;4;wanita bercerai/menikah;tidak ada;1;asuransi jiwa;27;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;36;berbayar yang ada;mobil bekas;5493;<100;>=7;2;pria lajang;tidak ada;4;tidak diketahui;42;tidak ada;gratis;1;terampil;2;tidak;ya;baik
+>=200;9;berbayar yang ada;radio/tv;1126;100;>=7;2;pria bercerai;tidak ada;4;perumahan;49;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;24;kredit penting/kredit lainnya;radio/tv;1216;100;<1;4;pria lajang;tidak ada;4;tidak diketahui;38;bank;milik sendiri;2;terampil;2;tidak;ya;buruk
+<0;24;berbayar yang ada;mobil baru;1207;<100;<1;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;24;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;10;berbayar yang ada;mobil baru;1309;tidak diketahui;1;4;pria lajang;penjamin;4;asuransi jiwa;27;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+>=200;15;kredit penting/kredit lainnya;mobil bekas;2360;500;1;2;pria lajang;tidak ada;2;mobil;36;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;15;lunas seluruhnya;mobil baru;6850;100;tidak bekerja;1;pria lajang;tidak ada;2;asuransi jiwa;34;tidak ada;milik sendiri;1;kualifikasi tinggi;2;ya;ya;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;1413;<100;1;4;pria menikah/duda;tidak ada;2;asuransi jiwa;28;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;39;berbayar yang ada;mobil bekas;8588;100;>=7;4;pria lajang;tidak ada;2;mobil;45;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+<0;12;berbayar yang ada;mobil baru;759;<100;4;4;pria lajang;tidak ada;2;perumahan;26;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;36;berbayar yang ada;mobil bekas;4686;<100;1;2;pria lajang;tidak ada;2;tidak diketahui;32;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+>=200;15;berbayar yang ada;bisnis;2687;<100;4;2;pria lajang;tidak ada;4;asuransi jiwa;26;tidak ada;sewa;1;terampil;1;ya;ya;baik
+0<=X<200;12;sebelumnya tertunda;radio/tv;585;<100;1;4;pria menikah/duda;pemohon bersama;4;perumahan;20;tidak ada;sewa;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;mobil baru;2255;tidak diketahui;<1;4;pria lajang;tidak ada;1;asuransi jiwa;54;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;6;kredit penting/kredit lainnya;mobil baru;609;<100;4;4;wanita bercerai/menikah;tidak ada;3;asuransi jiwa;37;tidak ada;milik sendiri;2;terampil;1;tidak;tidak;baik
+<0;6;kredit penting/kredit lainnya;mobil baru;1361;<100;<1;2;pria lajang;tidak ada;4;perumahan;40;tidak ada;milik sendiri;1;tidak terampil;2;tidak;tidak;baik
+tidak ada pemeriksaan;36;kredit penting/kredit lainnya;perabot/perlengkapan;7127;<100;<1;2;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;23;tidak ada;sewa;2;terampil;1;ya;ya;buruk
+<0;6;berbayar yang ada;mobil baru;1203;100;>=7;3;pria lajang;tidak ada;2;asuransi jiwa;43;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;6;kredit penting/kredit lainnya;radio/tv;700;tidak diketahui;>=7;4;pria lajang;tidak ada;4;tidak diketahui;36;tidak ada;gratis;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;perbaikan;5507;<100;>=7;3;pria lajang;tidak ada;4;tidak diketahui;44;tidak ada;gratis;2;terampil;1;tidak;ya;baik
+<0;18;berbayar yang ada;radio/tv;3190;<100;1;2;wanita bercerai/menikah;tidak ada;2;perumahan;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;48;tidak ada kredit/kredit lunas;perabot/perlengkapan;7119;<100;1;3;pria lajang;tidak ada;4;tidak diketahui;53;tidak ada;gratis;2;terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;mobil bekas;3488;100;4;3;wanita bercerai/menikah;tidak ada;4;mobil;23;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;18;berbayar yang ada;radio/tv;1113;<100;1;4;wanita bercerai/menikah;penjamin;4;perumahan;26;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+0<=X<200;26;berbayar yang ada;mobil bekas;7966;<100;<1;2;pria lajang;tidak ada;3;mobil;30;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;15;kredit penting/kredit lainnya;pendidikan;1532;100;1;4;wanita bercerai/menikah;tidak ada;3;mobil;31;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;4;kredit penting/kredit lainnya;radio/tv;1503;<100;4;2;pria lajang;tidak ada;1;perumahan;42;tidak ada;milik sendiri;2;tidak terampil;2;tidak;ya;baik
+<0;36;berbayar yang ada;radio/tv;2302;<100;1;4;pria bercerai;tidak ada;4;mobil;31;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+<0;6;berbayar yang ada;mobil baru;662;<100;<1;3;pria lajang;tidak ada;4;perumahan;41;tidak ada;milik sendiri;1;tidak terampil;2;ya;ya;baik
+0<=X<200;36;berbayar yang ada;pendidikan;2273;<100;4;3;pria lajang;tidak ada;1;mobil;32;tidak ada;milik sendiri;2;terampil;2;tidak;ya;baik
+0<=X<200;15;berbayar yang ada;mobil baru;2631;100;1;2;wanita bercerai/menikah;tidak ada;4;mobil;28;tidak ada;sewa;2;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;12;sebelumnya tertunda;mobil bekas;1503;<100;1;4;pria menikah/duda;tidak ada;4;perumahan;41;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;1311;100;4;4;pria menikah/duda;tidak ada;3;asuransi jiwa;26;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;3105;tidak diketahui;<1;4;pria lajang;tidak ada;2;mobil;25;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+>=200;21;kredit penting/kredit lainnya;pendidikan;2319;<100;<1;2;pria bercerai;tidak ada;1;mobil;33;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+<0;6;berbayar yang ada;mobil baru;1374;tidak diketahui;tidak bekerja;4;wanita bercerai/menikah;tidak ada;3;asuransi jiwa;75;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;18;kredit penting/kredit lainnya;perabot/perlengkapan;3612;<100;>=7;3;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;37;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;48;berbayar yang ada;mobil baru;7763;<100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;42;bank;gratis;1;kualifikasi tinggi;1;tidak;ya;buruk
+>=200;18;berbayar yang ada;perabot/perlengkapan;3049;<100;<1;1;wanita bercerai/menikah;tidak ada;1;asuransi jiwa;45;toko;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;radio/tv;1534;<100;<1;1;pria menikah/duda;tidak ada;1;perumahan;23;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;sebelumnya tertunda;mobil baru;2032;<100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;60;tidak ada;gratis;2;terampil;1;ya;ya;baik
+<0;30;berbayar yang ada;perabot/perlengkapan;6350;tidak diketahui;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;31;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+>=200;18;berbayar yang ada;perabot/perlengkapan;2864;<100;1;2;pria lajang;tidak ada;1;perumahan;34;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;mobil baru;1255;<100;>=7;4;pria lajang;tidak ada;4;perumahan;61;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+<0;24;sebelumnya tertunda;mobil baru;1333;<100;tidak bekerja;4;pria lajang;tidak ada;2;perumahan;43;tidak ada;gratis;2;terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;mobil baru;2022;<100;1;4;wanita bercerai/menikah;tidak ada;4;mobil;37;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;1552;<100;4;3;pria lajang;tidak ada;1;mobil;32;bank;milik sendiri;1;terampil;2;tidak;ya;baik
+<0;12;lunas seluruhnya;radio/tv;626;<100;1;4;wanita bercerai/menikah;tidak ada;4;perumahan;24;bank;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;48;kredit penting/kredit lainnya;mobil bekas;8858;tidak diketahui;4;2;pria lajang;tidak ada;1;tidak diketahui;35;tidak ada;gratis;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;perbaikan;996;tidak diketahui;4;4;wanita bercerai/menikah;tidak ada;4;perumahan;23;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;6;lunas seluruhnya;radio/tv;1750;500;>=7;2;pria lajang;tidak ada;4;asuransi jiwa;45;bank;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+<0;48;berbayar yang ada;radio/tv;6999;<100;4;1;pria menikah/duda;penjamin;1;perumahan;34;tidak ada;milik sendiri;2;terampil;1;ya;ya;buruk
+0<=X<200;12;kredit penting/kredit lainnya;mobil baru;1995;100;<1;4;pria lajang;tidak ada;1;mobil;27;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;9;berbayar yang ada;pendidikan;1199;<100;4;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;67;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;12;berbayar yang ada;radio/tv;1331;<100;<1;2;pria lajang;tidak ada;1;mobil;22;toko;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;18;tidak ada kredit/kredit lunas;mobil baru;2278;100;<1;3;wanita bercerai/menikah;tidak ada;3;mobil;28;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;21;tidak ada kredit/kredit lunas;mobil baru;5003;tidak diketahui;1;1;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;29;bank;milik sendiri;2;terampil;1;ya;ya;buruk
+<0;24;lunas seluruhnya;perabot/perlengkapan;3552;<100;4;3;pria lajang;tidak ada;4;mobil;27;bank;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;18;kredit penting/kredit lainnya;perabot/perlengkapan;1928;<100;<1;2;pria lajang;tidak ada;2;perumahan;31;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;buruk
+<0;24;berbayar yang ada;mobil bekas;2964;tidak diketahui;>=7;4;pria lajang;tidak ada;4;tidak diketahui;49;bank;gratis;1;terampil;2;ya;ya;baik
+<0;24;lunas seluruhnya;radio/tv;1546;<100;4;4;pria lajang;penjamin;4;mobil;24;bank;sewa;1;tidak terampil;1;tidak;ya;buruk
+>=200;6;sebelumnya tertunda;radio/tv;683;<100;<1;2;wanita bercerai/menikah;tidak ada;1;asuransi jiwa;29;bank;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;36;berbayar yang ada;mobil baru;12389;tidak diketahui;1;1;pria lajang;tidak ada;4;tidak diketahui;37;tidak ada;gratis;1;terampil;1;ya;ya;buruk
+0<=X<200;24;sebelumnya tertunda;bisnis;4712;tidak diketahui;1;4;pria lajang;tidak ada;2;asuransi jiwa;37;bank;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;24;sebelumnya tertunda;radio/tv;1553;100;4;3;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;23;tidak ada;sewa;2;terampil;1;ya;ya;baik
+<0;12;berbayar yang ada;mobil baru;1372;<100;4;2;pria bercerai;tidak ada;3;mobil;36;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;radio/tv;2578;>=1000;>=7;2;pria lajang;tidak ada;2;mobil;34;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;48;berbayar yang ada;radio/tv;3979;tidak diketahui;4;4;pria lajang;tidak ada;1;mobil;41;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+<0;48;berbayar yang ada;radio/tv;6758;<100;1;3;wanita bercerai/menikah;tidak ada;2;mobil;31;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+<0;24;berbayar yang ada;perabot/perlengkapan;3234;<100;<1;4;wanita bercerai/menikah;tidak ada;4;perumahan;23;tidak ada;sewa;1;tidak terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;30;kredit penting/kredit lainnya;radio/tv;5954;<100;4;3;pria lajang;pemohon bersama;2;mobil;38;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;mobil bekas;5433;tidak diketahui;tidak bekerja;2;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;26;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;baik
+<0;15;berbayar yang ada;bisnis;806;<100;1;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;22;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;9;berbayar yang ada;radio/tv;1082;<100;>=7;4;pria lajang;tidak ada;4;mobil;27;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;15;kredit penting/kredit lainnya;perabot/perlengkapan;2788;<100;4;2;wanita bercerai/menikah;pemohon bersama;3;mobil;24;bank;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;radio/tv;2930;<100;4;2;wanita bercerai/menikah;tidak ada;1;perumahan;27;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;pendidikan;1927;tidak diketahui;1;3;wanita bercerai/menikah;tidak ada;2;mobil;33;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+0<=X<200;36;kredit penting/kredit lainnya;mobil baru;2820;<100;<1;4;pria bercerai;tidak ada;4;mobil;27;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;pengalihan karir;937;<100;<1;4;pria menikah/duda;tidak ada;3;mobil;27;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+0<=X<200;18;kredit penting/kredit lainnya;mobil baru;1056;<100;>=7;3;pria lajang;penjamin;3;perumahan;30;bank;milik sendiri;2;terampil;1;tidak;ya;buruk
+0<=X<200;12;kredit penting/kredit lainnya;mobil baru;3124;<100;<1;1;pria lajang;tidak ada;3;perumahan;49;bank;milik sendiri;2;tidak terampil;2;tidak;ya;baik
+tidak ada pemeriksaan;9;berbayar yang ada;perabot/perlengkapan;1388;<100;1;4;wanita bercerai/menikah;tidak ada;2;perumahan;26;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+0<=X<200;36;berbayar yang ada;perbaikan;2384;<100;<1;4;pria lajang;tidak ada;1;tidak diketahui;33;tidak ada;sewa;1;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;mobil baru;2133;tidak diketahui;>=7;4;wanita bercerai/menikah;tidak ada;4;tidak diketahui;52;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+<0;18;berbayar yang ada;perabot/perlengkapan;2039;<100;1;1;wanita bercerai/menikah;tidak ada;4;perumahan;20;bank;sewa;1;terampil;1;tidak;ya;buruk
+<0;9;kredit penting/kredit lainnya;mobil baru;2799;<100;1;2;pria lajang;tidak ada;2;perumahan;36;tidak ada;sewa;2;terampil;2;tidak;ya;baik
+<0;12;berbayar yang ada;perabot/perlengkapan;1289;<100;1;4;pria lajang;penjamin;1;asuransi jiwa;21;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+<0;18;berbayar yang ada;peralatan rumah tangga;1217;<100;1;4;pria menikah/duda;tidak ada;3;perumahan;47;tidak ada;milik sendiri;1;tidak terampil;1;ya;ya;buruk
+<0;12;kredit penting/kredit lainnya;perabot/perlengkapan;2246;<100;>=7;3;pria lajang;tidak ada;3;asuransi jiwa;60;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+<0;12;kredit penting/kredit lainnya;radio/tv;385;<100;4;4;wanita bercerai/menikah;tidak ada;3;perumahan;58;tidak ada;milik sendiri;4;tidak terampil;1;ya;ya;baik
+0<=X<200;24;sebelumnya tertunda;mobil baru;1965;tidak diketahui;1;4;wanita bercerai/menikah;tidak ada;4;mobil;42;tidak ada;sewa;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;21;berbayar yang ada;bisnis;1572;>=1000;>=7;4;wanita bercerai/menikah;tidak ada;4;perumahan;36;bank;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;24;berbayar yang ada;mobil baru;2718;<100;1;3;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;20;tidak ada;sewa;1;tidak terampil;1;ya;ya;buruk
+<0;24;lunas seluruhnya;lainnya;1358;tidak diketahui;>=7;4;pria lajang;tidak ada;3;mobil;40;toko;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+0<=X<200;6;lunas seluruhnya;mobil baru;931;100;<1;1;wanita bercerai/menikah;tidak ada;1;asuransi jiwa;32;toko;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+<0;24;berbayar yang ada;mobil baru;1442;<100;4;4;wanita bercerai/menikah;tidak ada;4;mobil;23;tidak ada;sewa;2;terampil;1;tidak;ya;buruk
+0<=X<200;24;tidak ada kredit/kredit lunas;bisnis;4241;<100;1;1;pria lajang;tidak ada;4;perumahan;36;tidak ada;milik sendiri;3;tidak terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;mobil baru;2775;<100;4;2;pria lajang;tidak ada;2;asuransi jiwa;31;bank;milik sendiri;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;sebelumnya tertunda;bisnis;3863;<100;1;1;pria lajang;tidak ada;2;tidak diketahui;32;tidak ada;gratis;1;terampil;1;tidak;ya;baik
+0<=X<200;7;berbayar yang ada;radio/tv;2329;<100;<1;1;wanita bercerai/menikah;penjamin;1;perumahan;45;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;9;berbayar yang ada;perabot/perlengkapan;918;<100;1;4;wanita bercerai/menikah;tidak ada;1;asuransi jiwa;30;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;24;lunas seluruhnya;pendidikan;1837;<100;4;4;wanita bercerai/menikah;tidak ada;4;tidak diketahui;34;bank;gratis;1;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;36;berbayar yang ada;perabot/perlengkapan;3349;<100;1;4;wanita bercerai/menikah;tidak ada;2;mobil;28;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+>=200;10;berbayar yang ada;perabot/perlengkapan;1275;<100;<1;4;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;23;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;24;lunas seluruhnya;perabot/perlengkapan;2828;500;1;4;pria lajang;tidak ada;4;perumahan;22;toko;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;bisnis;4526;<100;1;3;pria lajang;tidak ada;2;perumahan;74;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;36;berbayar yang ada;radio/tv;2671;100;1;4;wanita bercerai/menikah;pemohon bersama;4;tidak diketahui;50;tidak ada;gratis;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;18;berbayar yang ada;radio/tv;2051;<100;<1;4;pria lajang;tidak ada;1;perumahan;33;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;15;berbayar yang ada;mobil bekas;1300;tidak diketahui;>=7;4;pria lajang;tidak ada;4;tidak diketahui;45;bank;gratis;1;terampil;2;tidak;ya;baik
+<0;12;berbayar yang ada;peralatan rumah tangga;741;100;tidak bekerja;4;wanita bercerai/menikah;tidak ada;3;asuransi jiwa;22;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+>=200;10;berbayar yang ada;mobil baru;1240;100;>=7;1;wanita bercerai/menikah;tidak ada;4;tidak diketahui;48;tidak ada;gratis;1;tidak terampil;2;tidak;ya;buruk
+<0;21;berbayar yang ada;radio/tv;3357;>=1000;<1;4;wanita bercerai/menikah;tidak ada;2;mobil;29;bank;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;24;lunas seluruhnya;mobil bekas;3632;<100;1;1;wanita bercerai/menikah;penjamin;4;mobil;22;bank;sewa;1;terampil;1;tidak;tidak;baik
+tidak ada pemeriksaan;18;sebelumnya tertunda;perabot/perlengkapan;1808;<100;4;4;wanita bercerai/menikah;tidak ada;1;perumahan;22;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;48;tidak ada kredit/kredit lunas;bisnis;12204;tidak diketahui;1;2;pria lajang;tidak ada;2;mobil;48;bank;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;60;sebelumnya tertunda;radio/tv;9157;tidak diketahui;1;2;pria lajang;tidak ada;2;tidak diketahui;27;tidak ada;gratis;1;kualifikasi tinggi;1;tidak;ya;baik
+<0;6;kredit penting/kredit lainnya;mobil baru;3676;<100;1;1;pria lajang;tidak ada;3;perumahan;37;tidak ada;sewa;3;terampil;2;tidak;ya;baik
+0<=X<200;30;berbayar yang ada;perabot/perlengkapan;3441;100;1;2;wanita bercerai/menikah;pemohon bersama;4;mobil;21;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;mobil baru;640;<100;1;4;pria bercerai;tidak ada;2;perumahan;49;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;21;kredit penting/kredit lainnya;bisnis;3652;<100;4;2;pria lajang;tidak ada;3;asuransi jiwa;27;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;mobil baru;1530;<100;1;3;pria lajang;tidak ada;2;asuransi jiwa;32;bank;milik sendiri;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;48;berbayar yang ada;bisnis;3914;tidak diketahui;1;4;pria bercerai;tidak ada;2;perumahan;38;bank;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;12;berbayar yang ada;perabot/perlengkapan;1858;<100;<1;4;wanita bercerai/menikah;tidak ada;1;mobil;22;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+<0;18;berbayar yang ada;radio/tv;2600;<100;1;4;pria lajang;tidak ada;4;tidak diketahui;65;tidak ada;gratis;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;15;berbayar yang ada;radio/tv;1979;tidak diketahui;>=7;4;pria lajang;tidak ada;2;mobil;35;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+>=200;6;berbayar yang ada;perabot/perlengkapan;2116;<100;1;2;pria lajang;tidak ada;2;perumahan;41;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;9;lunas seluruhnya;mobil baru;1437;100;4;2;pria lajang;tidak ada;3;tidak diketahui;29;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;42;kredit penting/kredit lainnya;perabot/perlengkapan;4042;500;1;4;pria lajang;tidak ada;4;perumahan;36;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;9;berbayar yang ada;pendidikan;3832;tidak diketahui;>=7;1;pria lajang;tidak ada;4;perumahan;64;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+<0;24;berbayar yang ada;radio/tv;3660;<100;1;2;wanita bercerai/menikah;tidak ada;4;mobil;28;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;18;lunas seluruhnya;perabot/perlengkapan;1553;<100;1;4;pria lajang;tidak ada;3;mobil;44;bank;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;15;berbayar yang ada;radio/tv;1444;tidak diketahui;<1;4;pria lajang;tidak ada;1;asuransi jiwa;23;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;9;berbayar yang ada;perabot/perlengkapan;1980;<100;<1;2;wanita bercerai/menikah;pemohon bersama;2;mobil;19;tidak ada;sewa;2;terampil;1;tidak;ya;buruk
+0<=X<200;24;berbayar yang ada;mobil baru;1355;<100;<1;3;wanita bercerai/menikah;tidak ada;4;mobil;25;tidak ada;milik sendiri;1;tidak terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;pendidikan;1393;<100;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;47;bank;milik sendiri;3;terampil;2;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;1376;500;4;4;wanita bercerai/menikah;tidak ada;1;mobil;28;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;60;sebelumnya tertunda;radio/tv;15653;<100;4;2;pria lajang;tidak ada;4;mobil;21;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;1493;<100;<1;4;wanita bercerai/menikah;tidak ada;3;mobil;34;tidak ada;milik sendiri;1;terampil;2;tidak;ya;baik
+<0;42;sebelumnya tertunda;radio/tv;4370;<100;4;3;pria lajang;tidak ada;2;asuransi jiwa;26;bank;milik sendiri;2;terampil;2;ya;ya;buruk
+<0;18;berbayar yang ada;pendidikan;750;<100;tidak bekerja;4;wanita bercerai/menikah;tidak ada;1;perumahan;27;tidak ada;milik sendiri;1;unemp/tidak terampil non res;1;tidak;ya;buruk
+0<=X<200;15;berbayar yang ada;perbaikan;1308;<100;>=7;4;pria lajang;tidak ada;4;mobil;38;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;15;berbayar yang ada;pendidikan;4623;100;1;3;pria lajang;tidak ada;2;asuransi jiwa;40;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;radio/tv;1851;<100;4;4;pria menikah/duda;penjamin;2;mobil;33;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+<0;18;kredit penting/kredit lainnya;radio/tv;1880;<100;4;4;pria menikah/duda;tidak ada;1;asuransi jiwa;32;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;36;sebelumnya tertunda;bisnis;7980;tidak diketahui;<1;4;pria lajang;tidak ada;4;mobil;27;tidak ada;sewa;2;terampil;1;ya;ya;buruk
+<0;30;tidak ada kredit/kredit lunas;perabot/perlengkapan;4583;<100;1;2;pria bercerai;penjamin;2;perumahan;32;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;mobil baru;1386;500;1;2;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;26;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+>=200;24;berbayar yang ada;mobil baru;947;<100;4;4;pria lajang;tidak ada;3;tidak diketahui;38;bank;gratis;1;terampil;2;tidak;ya;buruk
+<0;12;berbayar yang ada;pendidikan;684;<100;1;4;pria lajang;tidak ada;4;mobil;40;tidak ada;sewa;1;tidak terampil;2;tidak;ya;buruk
+<0;48;berbayar yang ada;pendidikan;7476;<100;4;4;pria lajang;tidak ada;1;tidak diketahui;50;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;12;berbayar yang ada;perabot/perlengkapan;1922;<100;1;4;pria lajang;tidak ada;2;asuransi jiwa;37;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+<0;24;berbayar yang ada;mobil baru;2303;<100;>=7;4;pria lajang;pemohon bersama;1;perumahan;45;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;36;sebelumnya tertunda;mobil baru;8086;100;>=7;2;pria lajang;tidak ada;4;mobil;42;tidak ada;milik sendiri;4;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;mobil bekas;2346;<100;4;4;pria lajang;tidak ada;3;mobil;35;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+<0;14;berbayar yang ada;mobil baru;3973;<100;tidak bekerja;1;pria lajang;tidak ada;4;tidak diketahui;22;tidak ada;gratis;1;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;mobil baru;888;<100;>=7;4;pria lajang;tidak ada;4;mobil;41;bank;milik sendiri;1;tidak terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;48;berbayar yang ada;radio/tv;10222;tidak diketahui;4;4;pria lajang;tidak ada;3;mobil;37;toko;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;30;tidak ada kredit/kredit lunas;bisnis;4221;<100;1;2;wanita bercerai/menikah;tidak ada;1;mobil;28;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;18;kredit penting/kredit lainnya;perabot/perlengkapan;6361;<100;>=7;2;pria lajang;tidak ada;1;tidak diketahui;41;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+>=200;12;berbayar yang ada;radio/tv;1297;<100;1;3;pria menikah/duda;tidak ada;4;perumahan;23;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+<0;12;berbayar yang ada;mobil baru;900;tidak diketahui;1;4;pria menikah/duda;tidak ada;2;mobil;23;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;21;berbayar yang ada;perabot/perlengkapan;2241;<100;>=7;4;pria lajang;tidak ada;2;perumahan;50;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;6;sebelumnya tertunda;perabot/perlengkapan;1050;<100;tidak bekerja;4;pria lajang;tidak ada;1;asuransi jiwa;35;toko;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+>=200;6;kredit penting/kredit lainnya;pendidikan;1047;<100;1;2;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;50;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;lainnya;6314;<100;tidak bekerja;4;pria lajang;pemohon bersama;2;tidak diketahui;27;bank;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;30;lunas seluruhnya;perabot/perlengkapan;3496;>=1000;1;4;pria lajang;tidak ada;2;mobil;34;toko;milik sendiri;1;terampil;2;ya;ya;baik
+tidak ada pemeriksaan;48;lunas seluruhnya;bisnis;3609;<100;1;1;wanita bercerai/menikah;tidak ada;1;perumahan;27;toko;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;12;kredit penting/kredit lainnya;mobil baru;4843;<100;>=7;3;pria lajang;pemohon bersama;4;asuransi jiwa;43;tidak ada;sewa;2;terampil;1;ya;ya;buruk
+>=200;30;kredit penting/kredit lainnya;radio/tv;3017;<100;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;47;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;bisnis;4139;100;1;3;pria lajang;tidak ada;3;asuransi jiwa;27;tidak ada;milik sendiri;2;tidak terampil;1;ya;ya;baik
+tidak ada pemeriksaan;36;berbayar yang ada;bisnis;5742;100;4;2;pria lajang;tidak ada;2;mobil;31;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;60;berbayar yang ada;mobil baru;10366;<100;>=7;2;pria lajang;tidak ada;4;asuransi jiwa;42;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;6;kredit penting/kredit lainnya;mobil baru;2080;500;1;1;pria menikah/duda;tidak ada;2;mobil;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;21;sebelumnya tertunda;bisnis;2580;500;<1;4;pria lajang;tidak ada;2;perumahan;41;bank;milik sendiri;1;tidak terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;30;kredit penting/kredit lainnya;radio/tv;4530;<100;4;4;wanita bercerai/menikah;tidak ada;4;mobil;26;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;perabot/perlengkapan;5150;<100;>=7;4;pria lajang;tidak ada;4;mobil;33;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;72;berbayar yang ada;radio/tv;5595;100;1;2;pria menikah/duda;tidak ada;2;mobil;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;24;berbayar yang ada;radio/tv;2384;<100;>=7;4;pria lajang;tidak ada;4;perumahan;64;bank;sewa;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;radio/tv;1453;<100;<1;3;wanita bercerai/menikah;tidak ada;1;perumahan;26;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;6;berbayar yang ada;pendidikan;1538;<100;<1;1;wanita bercerai/menikah;tidak ada;2;tidak diketahui;56;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;2279;tidak diketahui;1;4;pria lajang;tidak ada;4;tidak diketahui;37;tidak ada;gratis;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;15;sebelumnya tertunda;radio/tv;1478;<100;1;4;pria menikah/duda;tidak ada;3;perumahan;33;bank;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;radio/tv;5103;<100;<1;3;pria menikah/duda;tidak ada;3;tidak diketahui;47;tidak ada;gratis;3;terampil;1;ya;ya;baik
+0<=X<200;36;sebelumnya tertunda;bisnis;9857;100;4;1;pria lajang;tidak ada;3;asuransi jiwa;31;tidak ada;milik sendiri;2;tidak terampil;2;ya;ya;baik
+tidak ada pemeriksaan;60;berbayar yang ada;mobil baru;6527;tidak diketahui;1;4;pria lajang;tidak ada;4;tidak diketahui;34;tidak ada;gratis;1;terampil;2;ya;ya;baik
+>=200;10;kredit penting/kredit lainnya;radio/tv;1347;tidak diketahui;4;4;pria lajang;tidak ada;2;asuransi jiwa;27;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+0<=X<200;36;sebelumnya tertunda;mobil baru;2862;100;>=7;4;pria lajang;tidak ada;3;tidak diketahui;30;tidak ada;gratis;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;9;berbayar yang ada;radio/tv;2753;100;>=7;3;pria lajang;pemohon bersama;4;mobil;35;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;12;berbayar yang ada;mobil baru;3651;>=1000;1;1;pria lajang;tidak ada;3;asuransi jiwa;31;tidak ada;milik sendiri;1;terampil;2;tidak;ya;baik
+<0;15;kredit penting/kredit lainnya;perabot/perlengkapan;975;<100;1;2;pria bercerai;tidak ada;3;asuransi jiwa;25;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;15;berbayar yang ada;perbaikan;2631;100;1;3;wanita bercerai/menikah;tidak ada;2;perumahan;25;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;24;berbayar yang ada;radio/tv;2896;100;<1;2;pria lajang;tidak ada;1;mobil;29;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;6;kredit penting/kredit lainnya;mobil baru;4716;tidak diketahui;<1;1;pria lajang;tidak ada;3;perumahan;44;tidak ada;milik sendiri;2;tidak terampil;2;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;2284;<100;4;4;pria lajang;tidak ada;2;mobil;28;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;6;berbayar yang ada;mobil bekas;1236;500;1;2;pria lajang;tidak ada;4;asuransi jiwa;50;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;radio/tv;1103;<100;4;4;pria lajang;penjamin;3;perumahan;29;tidak ada;milik sendiri;2;terampil;1;tidak;tidak;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;mobil baru;926;<100;tidak bekerja;1;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;38;tidak ada;milik sendiri;1;unemp/tidak terampil non res;1;tidak;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;radio/tv;1800;<100;1;4;pria lajang;tidak ada;2;mobil;24;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+>=200;15;berbayar yang ada;pendidikan;1905;<100;>=7;4;pria lajang;tidak ada;4;mobil;40;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;perabot/perlengkapan;1123;500;1;4;wanita bercerai/menikah;tidak ada;4;mobil;29;tidak ada;sewa;1;tidak terampil;1;tidak;ya;buruk
+<0;48;kredit penting/kredit lainnya;mobil bekas;6331;<100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;46;tidak ada;gratis;2;terampil;1;ya;ya;buruk
+>=200;24;berbayar yang ada;radio/tv;1377;100;>=7;4;wanita bercerai/menikah;tidak ada;2;tidak diketahui;47;tidak ada;gratis;1;terampil;1;ya;ya;baik
+0<=X<200;30;sebelumnya tertunda;bisnis;2503;100;>=7;4;pria lajang;tidak ada;2;asuransi jiwa;41;toko;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;27;berbayar yang ada;bisnis;2528;<100;<1;4;wanita bercerai/menikah;tidak ada;1;asuransi jiwa;32;tidak ada;milik sendiri;1;terampil;2;ya;ya;baik
+tidak ada pemeriksaan;15;berbayar yang ada;mobil baru;5324;500;>=7;1;wanita bercerai/menikah;tidak ada;4;tidak diketahui;35;tidak ada;gratis;1;terampil;1;tidak;ya;baik
+0<=X<200;48;berbayar yang ada;mobil baru;6560;100;4;3;pria lajang;tidak ada;2;asuransi jiwa;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;12;tidak ada kredit/kredit lunas;perabot/perlengkapan;2969;<100;<1;4;wanita bercerai/menikah;tidak ada;3;asuransi jiwa;25;tidak ada;sewa;2;terampil;1;tidak;ya;buruk
+0<=X<200;9;berbayar yang ada;radio/tv;1206;<100;>=7;4;wanita bercerai/menikah;tidak ada;4;perumahan;25;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;9;berbayar yang ada;radio/tv;2118;<100;1;2;pria lajang;tidak ada;2;perumahan;37;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;radio/tv;629;500;>=7;4;pria lajang;tidak ada;3;asuransi jiwa;32;bank;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+<0;6;lunas seluruhnya;pendidikan;1198;<100;>=7;4;wanita bercerai/menikah;tidak ada;4;tidak diketahui;35;tidak ada;gratis;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;21;berbayar yang ada;mobil bekas;2476;tidak diketahui;>=7;4;pria lajang;tidak ada;4;perumahan;46;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+<0;9;kredit penting/kredit lainnya;radio/tv;1138;<100;1;4;pria lajang;tidak ada;4;perumahan;25;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+0<=X<200;60;berbayar yang ada;mobil baru;14027;<100;4;4;pria lajang;tidak ada;2;tidak diketahui;27;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;30;kredit penting/kredit lainnya;mobil bekas;7596;tidak diketahui;>=7;1;pria lajang;tidak ada;4;mobil;63;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;30;kredit penting/kredit lainnya;radio/tv;3077;tidak diketahui;>=7;3;pria lajang;tidak ada;2;mobil;40;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;radio/tv;1505;<100;1;4;pria lajang;tidak ada;2;tidak diketahui;32;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+>=200;24;kredit penting/kredit lainnya;radio/tv;3148;tidak diketahui;1;3;pria lajang;tidak ada;2;mobil;31;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+0<=X<200;20;tidak ada kredit/kredit lunas;mobil bekas;6148;100;>=7;3;pria menikah/duda;tidak ada;4;mobil;31;bank;milik sendiri;2;terampil;1;ya;ya;baik
+>=200;9;tidak ada kredit/kredit lunas;radio/tv;1337;<100;<1;4;pria lajang;tidak ada;2;mobil;34;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;buruk
+0<=X<200;6;lunas seluruhnya;pendidikan;433;>=1000;<1;4;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;24;bank;sewa;1;terampil;2;tidak;ya;buruk
+<0;12;berbayar yang ada;mobil baru;1228;<100;1;4;wanita bercerai/menikah;tidak ada;2;perumahan;24;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+0<=X<200;9;berbayar yang ada;radio/tv;790;500;1;4;wanita bercerai/menikah;tidak ada;3;perumahan;66;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;27;berbayar yang ada;mobil baru;2570;<100;1;3;wanita bercerai/menikah;tidak ada;3;perumahan;21;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;6;kredit penting/kredit lainnya;mobil baru;250;>=1000;1;2;wanita bercerai/menikah;tidak ada;2;perumahan;41;bank;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;15;kredit penting/kredit lainnya;radio/tv;1316;500;1;2;pria menikah/duda;tidak ada;2;asuransi jiwa;47;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+<0;18;berbayar yang ada;radio/tv;1882;<100;1;4;wanita bercerai/menikah;tidak ada;4;mobil;25;bank;sewa;2;terampil;1;tidak;ya;buruk
+0<=X<200;48;lunas seluruhnya;bisnis;6416;<100;>=7;4;wanita bercerai/menikah;tidak ada;3;tidak diketahui;59;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+>=200;24;kredit penting/kredit lainnya;bisnis;1275;>=1000;1;2;pria bercerai;tidak ada;4;perumahan;36;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+0<=X<200;24;sebelumnya tertunda;radio/tv;6403;<100;<1;1;pria lajang;tidak ada;2;mobil;33;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;24;berbayar yang ada;radio/tv;1987;<100;1;2;pria lajang;tidak ada;4;perumahan;21;tidak ada;sewa;1;tidak terampil;2;tidak;ya;buruk
+0<=X<200;8;berbayar yang ada;radio/tv;760;<100;4;4;wanita bercerai/menikah;penjamin;2;perumahan;44;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;mobil bekas;2603;>=1000;1;2;wanita bercerai/menikah;tidak ada;4;mobil;28;tidak ada;sewa;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;4;kredit penting/kredit lainnya;mobil baru;3380;<100;4;1;wanita bercerai/menikah;tidak ada;1;perumahan;37;tidak ada;milik sendiri;1;terampil;2;tidak;ya;baik
+0<=X<200;36;lunas seluruhnya;peralatan rumah tangga;3990;tidak diketahui;<1;3;wanita bercerai/menikah;tidak ada;2;tidak diketahui;29;bank;milik sendiri;1;unemp/tidak terampil non res;1;tidak;ya;baik
+0<=X<200;24;berbayar yang ada;mobil bekas;11560;<100;1;1;wanita bercerai/menikah;tidak ada;4;mobil;23;tidak ada;sewa;2;kualifikasi tinggi;1;tidak;ya;buruk
+<0;18;berbayar yang ada;mobil baru;4380;100;1;3;pria lajang;tidak ada;4;mobil;35;tidak ada;milik sendiri;1;tidak terampil;2;ya;ya;baik
+tidak ada pemeriksaan;6;kredit penting/kredit lainnya;mobil baru;6761;<100;4;1;pria lajang;tidak ada;3;tidak diketahui;45;tidak ada;milik sendiri;2;kualifikasi tinggi;2;ya;ya;baik
+0<=X<200;30;tidak ada kredit/kredit lunas;bisnis;4280;100;1;4;wanita bercerai/menikah;tidak ada;4;mobil;26;tidak ada;sewa;2;tidak terampil;1;tidak;ya;buruk
+<0;24;lunas seluruhnya;mobil baru;2325;100;4;2;pria lajang;tidak ada;3;mobil;32;bank;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;10;lunas seluruhnya;radio/tv;1048;<100;1;4;pria lajang;tidak ada;4;perumahan;23;toko;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;21;berbayar yang ada;radio/tv;3160;tidak diketahui;>=7;4;pria lajang;tidak ada;3;asuransi jiwa;41;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;24;lunas seluruhnya;perabot/perlengkapan;2483;500;1;4;pria lajang;tidak ada;4;perumahan;22;toko;milik sendiri;1;terampil;1;ya;ya;baik
+<0;39;kredit penting/kredit lainnya;perabot/perlengkapan;14179;tidak diketahui;4;4;pria lajang;tidak ada;4;asuransi jiwa;30;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+<0;13;kredit penting/kredit lainnya;bisnis;1797;<100;<1;3;pria lajang;tidak ada;1;asuransi jiwa;28;bank;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+<0;15;berbayar yang ada;mobil baru;2511;<100;tidak bekerja;1;wanita bercerai/menikah;tidak ada;4;mobil;23;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+<0;12;berbayar yang ada;mobil baru;1274;<100;<1;3;wanita bercerai/menikah;tidak ada;1;perumahan;37;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;21;berbayar yang ada;mobil bekas;5248;tidak diketahui;1;1;pria lajang;tidak ada;3;mobil;26;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;15;berbayar yang ada;mobil bekas;3029;<100;4;2;pria lajang;tidak ada;2;mobil;33;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;6;berbayar yang ada;perabot/perlengkapan;428;<100;>=7;2;wanita bercerai/menikah;tidak ada;1;asuransi jiwa;49;bank;milik sendiri;1;terampil;1;ya;ya;baik
+<0;18;berbayar yang ada;mobil baru;976;<100;<1;1;wanita bercerai/menikah;tidak ada;2;mobil;23;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+0<=X<200;12;berbayar yang ada;bisnis;841;100;4;2;wanita bercerai/menikah;tidak ada;4;perumahan;23;tidak ada;sewa;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;30;kredit penting/kredit lainnya;radio/tv;5771;<100;4;4;wanita bercerai/menikah;tidak ada;2;mobil;25;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;sebelumnya tertunda;perbaikan;1555;>=1000;>=7;4;pria lajang;tidak ada;4;tidak diketahui;55;tidak ada;gratis;2;terampil;2;tidak;ya;buruk
+<0;24;berbayar yang ada;mobil baru;1285;tidak diketahui;4;4;wanita bercerai/menikah;tidak ada;4;tidak diketahui;32;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+>=200;6;kredit penting/kredit lainnya;mobil baru;1299;<100;1;1;pria lajang;tidak ada;1;perumahan;74;tidak ada;milik sendiri;3;unemp/tidak terampil non res;2;tidak;tidak;baik
+>=200;15;kredit penting/kredit lainnya;radio/tv;1271;tidak diketahui;1;3;pria lajang;tidak ada;4;tidak diketahui;39;tidak ada;gratis;2;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;mobil baru;1393;<100;1;2;pria lajang;penjamin;2;perumahan;31;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;12;kredit penting/kredit lainnya;mobil baru;691;<100;>=7;4;pria lajang;tidak ada;3;asuransi jiwa;35;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;15;kredit penting/kredit lainnya;mobil baru;5045;tidak diketahui;>=7;1;wanita bercerai/menikah;tidak ada;4;mobil;59;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;18;kredit penting/kredit lainnya;perabot/perlengkapan;2124;<100;1;4;wanita bercerai/menikah;tidak ada;4;perumahan;24;tidak ada;sewa;2;terampil;1;tidak;ya;buruk
+<0;12;berbayar yang ada;radio/tv;2214;<100;1;4;pria lajang;tidak ada;3;asuransi jiwa;24;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;21;kredit penting/kredit lainnya;mobil baru;12680;tidak diketahui;>=7;4;pria lajang;tidak ada;4;tidak diketahui;30;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;mobil baru;2463;100;4;4;pria menikah/duda;tidak ada;3;asuransi jiwa;27;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+0<=X<200;12;berbayar yang ada;radio/tv;1155;<100;>=7;3;pria menikah/duda;penjamin;3;perumahan;40;bank;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+<0;30;berbayar yang ada;perabot/perlengkapan;3108;<100;<1;2;pria bercerai;tidak ada;4;asuransi jiwa;31;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;10;berbayar yang ada;mobil bekas;2901;tidak diketahui;<1;1;wanita bercerai/menikah;tidak ada;4;perumahan;31;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+0<=X<200;12;kredit penting/kredit lainnya;perabot/perlengkapan;3617;<100;>=7;1;pria lajang;tidak ada;4;mobil;28;tidak ada;sewa;3;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;radio/tv;1655;<100;>=7;2;pria lajang;tidak ada;4;perumahan;63;tidak ada;milik sendiri;2;tidak terampil;1;ya;ya;baik
+<0;24;berbayar yang ada;mobil bekas;2812;tidak diketahui;>=7;2;wanita bercerai/menikah;tidak ada;4;perumahan;26;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+<0;36;kredit penting/kredit lainnya;pendidikan;8065;<100;1;3;wanita bercerai/menikah;tidak ada;2;tidak diketahui;25;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;21;kredit penting/kredit lainnya;mobil bekas;3275;<100;>=7;1;pria lajang;tidak ada;4;mobil;36;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;radio/tv;2223;100;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;52;bank;milik sendiri;2;terampil;1;tidak;ya;baik
+>=200;12;kredit penting/kredit lainnya;mobil baru;1480;500;tidak bekerja;2;pria lajang;tidak ada;4;tidak diketahui;66;bank;gratis;3;unemp/tidak terampil non res;1;tidak;ya;baik
+<0;24;berbayar yang ada;mobil baru;1371;tidak diketahui;1;4;wanita bercerai/menikah;tidak ada;4;perumahan;25;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;36;kredit penting/kredit lainnya;mobil baru;3535;<100;4;4;pria lajang;tidak ada;4;mobil;37;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+<0;18;berbayar yang ada;radio/tv;3509;<100;4;4;wanita bercerai/menikah;penjamin;1;perumahan;25;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;36;kredit penting/kredit lainnya;mobil bekas;5711;>=1000;>=7;4;pria lajang;tidak ada;2;mobil;38;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;18;berbayar yang ada;perbaikan;3872;<100;tidak bekerja;2;wanita bercerai/menikah;tidak ada;4;mobil;67;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;39;kredit penting/kredit lainnya;radio/tv;4933;<100;4;2;pria lajang;penjamin;2;perumahan;25;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;mobil baru;1940;>=1000;>=7;4;pria lajang;tidak ada;4;perumahan;60;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;12;tidak ada kredit/kredit lunas;pengalihan karir;1410;<100;1;2;pria lajang;tidak ada;2;perumahan;31;tidak ada;milik sendiri;1;tidak terampil;1;ya;ya;baik
+0<=X<200;12;berbayar yang ada;mobil baru;836;100;<1;4;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;23;bank;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+0<=X<200;20;berbayar yang ada;mobil bekas;6468;tidak diketahui;tidak bekerja;1;pria bercerai;tidak ada;4;perumahan;60;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;18;berbayar yang ada;bisnis;1941;>=1000;1;4;pria lajang;tidak ada;2;asuransi jiwa;35;tidak ada;milik sendiri;1;tidak terampil;1;ya;ya;baik
+tidak ada pemeriksaan;22;berbayar yang ada;radio/tv;2675;500;>=7;3;pria lajang;tidak ada;4;mobil;40;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;48;kredit penting/kredit lainnya;mobil bekas;2751;tidak diketahui;>=7;4;pria lajang;tidak ada;3;mobil;38;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+0<=X<200;48;sebelumnya tertunda;pendidikan;6224;<100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;50;tidak ada;gratis;1;terampil;1;tidak;ya;buruk
+<0;40;kredit penting/kredit lainnya;pendidikan;5998;<100;1;4;pria lajang;tidak ada;3;tidak diketahui;27;bank;milik sendiri;1;terampil;1;ya;ya;buruk
+0<=X<200;21;berbayar yang ada;bisnis;1188;<100;>=7;2;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;39;tidak ada;milik sendiri;1;terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;mobil bekas;6313;tidak diketahui;>=7;3;pria lajang;tidak ada;4;mobil;41;tidak ada;milik sendiri;1;kualifikasi tinggi;2;ya;ya;baik
+tidak ada pemeriksaan;6;kredit penting/kredit lainnya;perabot/perlengkapan;1221;tidak diketahui;1;1;pria menikah/duda;tidak ada;2;asuransi jiwa;27;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+>=200;24;berbayar yang ada;perabot/perlengkapan;2892;<100;>=7;3;pria bercerai;tidak ada;4;tidak diketahui;51;tidak ada;gratis;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;perabot/perlengkapan;3062;500;>=7;4;pria lajang;tidak ada;3;tidak diketahui;32;tidak ada;sewa;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;9;berbayar yang ada;perabot/perlengkapan;2301;100;<1;2;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;22;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+<0;18;berbayar yang ada;mobil bekas;7511;tidak diketahui;>=7;1;pria lajang;tidak ada;4;asuransi jiwa;51;tidak ada;gratis;1;terampil;2;ya;ya;buruk
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;perabot/perlengkapan;1258;<100;<1;2;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;22;tidak ada;sewa;2;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;sebelumnya tertunda;mobil baru;717;tidak diketahui;>=7;4;pria menikah/duda;tidak ada;4;mobil;54;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+0<=X<200;9;berbayar yang ada;mobil baru;1549;tidak diketahui;<1;4;pria lajang;tidak ada;2;perumahan;35;tidak ada;milik sendiri;1;unemp/tidak terampil non res;1;tidak;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;pendidikan;1597;<100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;54;tidak ada;gratis;2;terampil;2;tidak;ya;baik
+0<=X<200;18;kredit penting/kredit lainnya;radio/tv;1795;<100;>=7;3;wanita bercerai/menikah;penjamin;4;perumahan;48;bank;sewa;2;tidak terampil;1;ya;ya;baik
+<0;20;kredit penting/kredit lainnya;perabot/perlengkapan;4272;<100;>=7;1;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;24;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;radio/tv;976;tidak diketahui;>=7;4;pria lajang;tidak ada;4;mobil;35;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;12;berbayar yang ada;mobil baru;7472;tidak diketahui;tidak bekerja;1;wanita bercerai/menikah;tidak ada;2;perumahan;24;tidak ada;sewa;1;unemp/tidak terampil non res;1;tidak;ya;baik
+<0;36;berbayar yang ada;mobil baru;9271;<100;4;2;pria lajang;tidak ada;1;mobil;24;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+0<=X<200;6;berbayar yang ada;radio/tv;590;<100;<1;3;pria menikah/duda;tidak ada;3;perumahan;26;tidak ada;milik sendiri;1;tidak terampil;1;tidak;tidak;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;radio/tv;930;tidak diketahui;>=7;4;pria lajang;tidak ada;4;perumahan;65;tidak ada;milik sendiri;4;terampil;1;tidak;ya;baik
+0<=X<200;42;lunas seluruhnya;mobil bekas;9283;<100;tidak bekerja;1;pria lajang;tidak ada;2;tidak diketahui;55;bank;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;15;tidak ada kredit/kredit lunas;mobil baru;1778;<100;<1;2;wanita bercerai/menikah;tidak ada;1;perumahan;26;tidak ada;sewa;2;unemp/tidak terampil non res;1;tidak;ya;buruk
+0<=X<200;8;berbayar yang ada;bisnis;907;<100;<1;3;pria menikah/duda;tidak ada;2;perumahan;26;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+0<=X<200;6;berbayar yang ada;radio/tv;484;<100;4;3;pria menikah/duda;penjamin;3;perumahan;28;bank;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+<0;36;kredit penting/kredit lainnya;mobil bekas;9629;<100;4;4;pria lajang;tidak ada;4;mobil;24;tidak ada;milik sendiri;2;terampil;1;ya;ya;buruk
+<0;48;berbayar yang ada;peralatan rumah tangga;3051;<100;1;3;pria lajang;tidak ada;4;mobil;54;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;48;berbayar yang ada;mobil baru;3931;<100;4;4;pria lajang;tidak ada;4;tidak diketahui;46;tidak ada;gratis;1;terampil;2;tidak;ya;buruk
+0<=X<200;36;sebelumnya tertunda;mobil baru;7432;<100;1;2;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;54;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;6;berbayar yang ada;peralatan rumah tangga;1338;500;1;1;pria bercerai;tidak ada;4;perumahan;62;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;6;kredit penting/kredit lainnya;radio/tv;1554;<100;4;1;wanita bercerai/menikah;tidak ada;2;mobil;24;tidak ada;sewa;2;terampil;1;ya;ya;baik
+<0;36;berbayar yang ada;lainnya;15857;<100;tidak bekerja;2;pria bercerai;pemohon bersama;3;mobil;43;tidak ada;milik sendiri;1;kualifikasi tinggi;1;tidak;ya;baik
+<0;18;berbayar yang ada;radio/tv;1345;<100;1;4;pria menikah/duda;tidak ada;3;perumahan;26;bank;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;mobil baru;1101;<100;1;3;pria menikah/duda;tidak ada;2;perumahan;27;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+>=200;12;berbayar yang ada;radio/tv;3016;<100;1;3;pria menikah/duda;tidak ada;1;mobil;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;36;berbayar yang ada;perabot/perlengkapan;2712;<100;>=7;2;pria lajang;tidak ada;2;asuransi jiwa;41;bank;milik sendiri;1;terampil;2;tidak;ya;buruk
+<0;8;kredit penting/kredit lainnya;mobil baru;731;<100;>=7;4;pria lajang;tidak ada;4;perumahan;47;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;perabot/perlengkapan;3780;<100;<1;3;pria bercerai;tidak ada;2;mobil;35;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+<0;21;kredit penting/kredit lainnya;mobil baru;1602;<100;>=7;4;pria menikah/duda;tidak ada;3;mobil;30;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+<0;18;kredit penting/kredit lainnya;mobil baru;3966;<100;>=7;1;wanita bercerai/menikah;tidak ada;4;perumahan;33;bank;sewa;3;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;18;tidak ada kredit/kredit lunas;bisnis;4165;<100;1;2;pria lajang;tidak ada;2;mobil;36;toko;milik sendiri;2;terampil;2;tidak;ya;buruk
+<0;36;berbayar yang ada;mobil bekas;8335;tidak diketahui;>=7;3;pria lajang;tidak ada;4;tidak diketahui;47;tidak ada;gratis;1;terampil;1;tidak;ya;buruk
+0<=X<200;48;sebelumnya tertunda;bisnis;6681;tidak diketahui;1;4;pria lajang;tidak ada;4;tidak diketahui;38;tidak ada;gratis;1;terampil;2;ya;ya;baik
+tidak ada pemeriksaan;24;sebelumnya tertunda;bisnis;2375;500;1;4;pria lajang;tidak ada;2;mobil;44;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+<0;18;berbayar yang ada;mobil baru;1216;<100;<1;4;wanita bercerai/menikah;tidak ada;3;mobil;23;tidak ada;sewa;1;terampil;1;ya;ya;buruk
+<0;45;tidak ada kredit/kredit lunas;bisnis;11816;<100;>=7;2;pria lajang;tidak ada;4;mobil;29;tidak ada;sewa;2;terampil;1;tidak;ya;buruk
+0<=X<200;24;berbayar yang ada;radio/tv;5084;tidak diketahui;>=7;2;wanita bercerai/menikah;tidak ada;4;mobil;42;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+>=200;15;berbayar yang ada;radio/tv;2327;<100;<1;2;wanita bercerai/menikah;tidak ada;3;perumahan;25;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+<0;12;tidak ada kredit/kredit lunas;mobil baru;1082;<100;1;4;pria lajang;tidak ada;4;mobil;48;bank;milik sendiri;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;886;tidak diketahui;1;4;wanita bercerai/menikah;tidak ada;2;mobil;21;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;4;berbayar yang ada;perabot/perlengkapan;601;<100;<1;1;wanita bercerai/menikah;tidak ada;3;perumahan;23;tidak ada;sewa;1;tidak terampil;2;tidak;ya;baik
+<0;24;kredit penting/kredit lainnya;mobil bekas;2957;<100;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;63;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;radio/tv;2611;<100;>=7;4;pria menikah/duda;pemohon bersama;3;perumahan;46;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;36;berbayar yang ada;perabot/perlengkapan;5179;<100;4;4;pria lajang;tidak ada;2;asuransi jiwa;29;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;21;sebelumnya tertunda;mobil bekas;2993;<100;1;3;pria lajang;tidak ada;2;perumahan;28;toko;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;perbaikan;1943;<100;<1;4;wanita bercerai/menikah;tidak ada;4;perumahan;23;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;lunas seluruhnya;bisnis;1559;<100;4;4;pria lajang;tidak ada;4;mobil;50;bank;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;perabot/perlengkapan;3422;<100;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;47;bank;milik sendiri;3;terampil;2;ya;ya;baik
+0<=X<200;21;berbayar yang ada;perabot/perlengkapan;3976;tidak diketahui;4;2;pria lajang;tidak ada;3;mobil;35;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;mobil baru;6761;tidak diketahui;1;2;pria lajang;tidak ada;4;mobil;68;tidak ada;sewa;2;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;mobil baru;1249;<100;<1;4;pria menikah/duda;tidak ada;2;perumahan;28;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;9;berbayar yang ada;radio/tv;1364;<100;4;3;pria lajang;tidak ada;4;perumahan;59;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;12;berbayar yang ada;radio/tv;709;<100;>=7;4;pria lajang;tidak ada;4;perumahan;57;toko;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+<0;20;kredit penting/kredit lainnya;mobil baru;2235;<100;1;4;pria menikah/duda;penjamin;2;asuransi jiwa;33;bank;sewa;2;terampil;1;tidak;tidak;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;mobil bekas;4042;tidak diketahui;4;3;pria lajang;tidak ada;4;asuransi jiwa;43;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;15;kredit penting/kredit lainnya;radio/tv;1471;<100;1;4;pria lajang;tidak ada;4;tidak diketahui;35;tidak ada;gratis;2;terampil;1;ya;ya;baik
+<0;18;lunas seluruhnya;mobil baru;1442;<100;4;4;pria lajang;tidak ada;4;tidak diketahui;32;tidak ada;gratis;2;tidak terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;36;sebelumnya tertunda;mobil baru;10875;<100;>=7;2;pria lajang;tidak ada;2;mobil;45;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;mobil baru;1474;100;<1;4;pria menikah/duda;tidak ada;3;perumahan;33;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;10;berbayar yang ada;pengalihan karir;894;tidak diketahui;4;4;wanita bercerai/menikah;tidak ada;3;asuransi jiwa;40;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;15;kredit penting/kredit lainnya;perabot/perlengkapan;3343;<100;1;4;pria lajang;tidak ada;2;tidak diketahui;28;tidak ada;gratis;1;terampil;1;ya;ya;baik
+<0;15;berbayar yang ada;mobil baru;3959;<100;1;3;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;29;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;9;berbayar yang ada;mobil baru;3577;100;1;1;pria lajang;penjamin;2;perumahan;26;tidak ada;sewa;1;terampil;2;tidak;tidak;baik
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;mobil bekas;5804;>=1000;1;4;pria lajang;tidak ada;2;perumahan;27;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;sebelumnya tertunda;bisnis;2169;<100;1;4;pria menikah/duda;tidak ada;2;mobil;28;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+<0;24;berbayar yang ada;radio/tv;2439;<100;<1;4;wanita bercerai/menikah;tidak ada;4;perumahan;35;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;27;kredit penting/kredit lainnya;perabot/perlengkapan;4526;>=1000;<1;4;pria lajang;tidak ada;2;perumahan;32;toko;milik sendiri;2;tidak terampil;2;ya;ya;baik
+tidak ada pemeriksaan;10;berbayar yang ada;perabot/perlengkapan;2210;<100;1;2;pria lajang;tidak ada;2;perumahan;25;bank;sewa;1;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;15;berbayar yang ada;perabot/perlengkapan;2221;500;1;2;wanita bercerai/menikah;tidak ada;4;mobil;20;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+<0;18;berbayar yang ada;radio/tv;2389;<100;<1;4;wanita bercerai/menikah;tidak ada;1;mobil;27;toko;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;perabot/perlengkapan;3331;<100;>=7;2;pria lajang;tidak ada;4;asuransi jiwa;42;toko;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;36;berbayar yang ada;bisnis;7409;tidak diketahui;>=7;3;pria lajang;tidak ada;2;asuransi jiwa;37;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;12;berbayar yang ada;perabot/perlengkapan;652;<100;>=7;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;24;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;36;sebelumnya tertunda;perabot/perlengkapan;7678;500;4;2;wanita bercerai/menikah;tidak ada;4;mobil;40;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+>=200;6;kredit penting/kredit lainnya;mobil baru;1343;<100;>=7;1;pria lajang;tidak ada;4;perumahan;46;tidak ada;milik sendiri;2;terampil;2;tidak;tidak;baik
+<0;24;kredit penting/kredit lainnya;bisnis;1382;100;4;4;pria lajang;tidak ada;1;perumahan;26;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;15;berbayar yang ada;peralatan rumah tangga;874;tidak diketahui;<1;4;wanita bercerai/menikah;tidak ada;1;perumahan;24;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;12;berbayar yang ada;perabot/perlengkapan;3590;<100;1;2;pria lajang;pemohon bersama;2;asuransi jiwa;29;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+0<=X<200;11;kredit penting/kredit lainnya;mobil baru;1322;>=1000;1;4;wanita bercerai/menikah;tidak ada;4;mobil;40;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;18;lunas seluruhnya;radio/tv;1940;<100;<1;3;pria lajang;pemohon bersama;4;tidak diketahui;36;bank;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;36;berbayar yang ada;radio/tv;3595;<100;>=7;4;pria lajang;tidak ada;2;mobil;28;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;9;berbayar yang ada;mobil baru;1422;<100;<1;3;pria lajang;tidak ada;2;tidak diketahui;27;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;30;kredit penting/kredit lainnya;radio/tv;6742;tidak diketahui;4;2;pria lajang;tidak ada;3;asuransi jiwa;36;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;mobil bekas;7814;<100;4;3;pria lajang;tidak ada;3;mobil;38;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;mobil bekas;9277;tidak diketahui;1;2;pria bercerai;tidak ada;4;tidak diketahui;48;tidak ada;gratis;1;terampil;1;ya;ya;baik
+0<=X<200;30;kredit penting/kredit lainnya;mobil baru;2181;tidak diketahui;>=7;4;pria lajang;tidak ada;4;perumahan;36;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;radio/tv;1098;<100;tidak bekerja;4;wanita bercerai/menikah;tidak ada;4;mobil;65;tidak ada;milik sendiri;2;unemp/tidak terampil non res;1;tidak;ya;baik
+0<=X<200;24;berbayar yang ada;perabot/perlengkapan;4057;<100;4;3;pria bercerai;tidak ada;3;mobil;43;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+<0;12;berbayar yang ada;pendidikan;795;<100;<1;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;53;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+0<=X<200;24;kredit penting/kredit lainnya;bisnis;2825;tidak diketahui;4;4;pria lajang;tidak ada;3;tidak diketahui;34;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+0<=X<200;48;berbayar yang ada;bisnis;15672;<100;1;2;pria lajang;tidak ada;2;mobil;23;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;36;kredit penting/kredit lainnya;mobil baru;6614;<100;>=7;4;pria lajang;tidak ada;4;mobil;34;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;28;lunas seluruhnya;mobil bekas;7824;tidak diketahui;<1;3;pria lajang;penjamin;4;perumahan;40;bank;sewa;2;terampil;2;ya;ya;baik
+<0;27;kredit penting/kredit lainnya;bisnis;2442;<100;>=7;4;pria lajang;tidak ada;4;mobil;43;toko;milik sendiri;4;kualifikasi tinggi;2;ya;ya;baik
+tidak ada pemeriksaan;15;kredit penting/kredit lainnya;radio/tv;1829;<100;>=7;4;pria lajang;tidak ada;4;mobil;46;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+<0;12;kredit penting/kredit lainnya;mobil baru;2171;<100;1;4;pria lajang;tidak ada;4;asuransi jiwa;38;bank;milik sendiri;2;tidak terampil;1;tidak;tidak;baik
+0<=X<200;36;kredit penting/kredit lainnya;mobil bekas;5800;<100;1;3;pria lajang;tidak ada;4;mobil;34;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;radio/tv;1169;tidak diketahui;1;4;pria lajang;tidak ada;3;asuransi jiwa;29;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;36;sebelumnya tertunda;mobil bekas;8947;tidak diketahui;4;3;pria lajang;tidak ada;2;mobil;31;toko;milik sendiri;1;kualifikasi tinggi;2;ya;ya;baik
+<0;21;berbayar yang ada;radio/tv;2606;<100;<1;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;28;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;perabot/perlengkapan;1592;>=1000;4;3;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;35;tidak ada;milik sendiri;1;terampil;1;tidak;tidak;baik
+tidak ada pemeriksaan;15;berbayar yang ada;perabot/perlengkapan;2186;tidak diketahui;4;1;wanita bercerai/menikah;tidak ada;4;perumahan;33;bank;sewa;1;tidak terampil;1;tidak;ya;baik
+<0;18;berbayar yang ada;perabot/perlengkapan;4153;<100;1;2;pria lajang;pemohon bersama;3;mobil;42;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;16;kredit penting/kredit lainnya;mobil baru;2625;<100;>=7;2;pria lajang;penjamin;4;asuransi jiwa;43;bank;sewa;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;20;kredit penting/kredit lainnya;mobil baru;3485;tidak diketahui;<1;2;pria bercerai;tidak ada;4;perumahan;44;tidak ada;milik sendiri;2;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;36;kredit penting/kredit lainnya;mobil bekas;10477;tidak diketahui;>=7;2;pria lajang;tidak ada;4;tidak diketahui;42;tidak ada;gratis;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;15;berbayar yang ada;radio/tv;1386;tidak diketahui;1;4;pria menikah/duda;tidak ada;2;perumahan;40;tidak ada;sewa;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;1278;<100;>=7;4;pria lajang;tidak ada;1;perumahan;36;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+<0;12;berbayar yang ada;radio/tv;1107;<100;1;2;pria lajang;tidak ada;2;perumahan;20;tidak ada;sewa;1;kualifikasi tinggi;2;ya;ya;baik
+<0;21;berbayar yang ada;mobil baru;3763;tidak diketahui;4;2;pria lajang;pemohon bersama;2;perumahan;24;tidak ada;milik sendiri;1;tidak terampil;1;tidak;tidak;baik
+0<=X<200;36;berbayar yang ada;pendidikan;3711;tidak diketahui;1;2;pria menikah/duda;tidak ada;2;mobil;27;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;15;sebelumnya tertunda;mobil bekas;3594;<100;<1;1;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;46;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+0<=X<200;9;berbayar yang ada;mobil baru;3195;tidak diketahui;1;1;wanita bercerai/menikah;tidak ada;2;perumahan;33;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;36;sebelumnya tertunda;radio/tv;4454;<100;1;4;wanita bercerai/menikah;tidak ada;4;perumahan;34;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+0<=X<200;24;kredit penting/kredit lainnya;perabot/perlengkapan;4736;<100;<1;2;wanita bercerai/menikah;tidak ada;4;mobil;25;bank;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+0<=X<200;30;berbayar yang ada;radio/tv;2991;tidak diketahui;>=7;2;wanita bercerai/menikah;tidak ada;4;mobil;25;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;11;berbayar yang ada;bisnis;2142;>=1000;>=7;1;pria bercerai;tidak ada;2;perumahan;28;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;24;lunas seluruhnya;bisnis;3161;<100;1;4;pria lajang;tidak ada;2;asuransi jiwa;31;tidak ada;sewa;1;terampil;1;ya;ya;buruk
+0<=X<200;48;tidak ada kredit/kredit lunas;lainnya;18424;<100;1;1;wanita bercerai/menikah;tidak ada;2;asuransi jiwa;32;bank;milik sendiri;1;kualifikasi tinggi;1;ya;tidak;buruk
+tidak ada pemeriksaan;10;berbayar yang ada;mobil bekas;2848;100;1;1;pria lajang;pemohon bersama;2;perumahan;32;tidak ada;milik sendiri;1;terampil;2;tidak;ya;baik
+<0;6;berbayar yang ada;mobil baru;14896;<100;>=7;1;pria lajang;tidak ada;4;tidak diketahui;68;bank;milik sendiri;1;kualifikasi tinggi;1;ya;ya;buruk
+<0;24;berbayar yang ada;perabot/perlengkapan;2359;100;tidak bekerja;1;pria bercerai;tidak ada;1;asuransi jiwa;33;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+<0;24;berbayar yang ada;perabot/perlengkapan;3345;<100;>=7;4;pria lajang;tidak ada;2;asuransi jiwa;39;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;buruk
+tidak ada pemeriksaan;18;kredit penting/kredit lainnya;perabot/perlengkapan;1817;<100;1;4;wanita bercerai/menikah;tidak ada;2;tidak diketahui;28;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;48;sebelumnya tertunda;radio/tv;12749;500;4;4;pria lajang;tidak ada;1;mobil;37;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+<0;9;berbayar yang ada;radio/tv;1366;<100;<1;3;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;22;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+0<=X<200;12;berbayar yang ada;mobil baru;2002;<100;4;3;pria lajang;tidak ada;4;asuransi jiwa;30;tidak ada;sewa;1;terampil;2;ya;ya;baik
+<0;24;lunas seluruhnya;perabot/perlengkapan;6872;<100;<1;2;pria bercerai;tidak ada;1;asuransi jiwa;55;bank;milik sendiri;1;terampil;1;ya;ya;buruk
+<0;12;lunas seluruhnya;mobil baru;697;<100;<1;4;pria lajang;tidak ada;2;mobil;46;bank;milik sendiri;2;terampil;1;ya;ya;buruk
+<0;18;kredit penting/kredit lainnya;perabot/perlengkapan;1049;<100;<1;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;21;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+<0;48;berbayar yang ada;mobil bekas;10297;<100;4;4;pria lajang;tidak ada;4;tidak diketahui;39;toko;gratis;3;terampil;2;ya;ya;buruk
+tidak ada pemeriksaan;30;berbayar yang ada;radio/tv;1867;tidak diketahui;>=7;4;pria lajang;tidak ada;4;mobil;58;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;12;sebelumnya tertunda;mobil baru;1344;<100;1;4;pria lajang;tidak ada;2;perumahan;43;tidak ada;milik sendiri;2;tidak terampil;2;tidak;ya;baik
+<0;24;berbayar yang ada;perabot/perlengkapan;1747;<100;<1;4;pria lajang;pemohon bersama;1;asuransi jiwa;24;tidak ada;milik sendiri;1;tidak terampil;1;tidak;tidak;baik
+0<=X<200;9;berbayar yang ada;radio/tv;1670;<100;<1;4;wanita bercerai/menikah;tidak ada;2;mobil;22;tidak ada;milik sendiri;1;terampil;1;ya;ya;buruk
+tidak ada pemeriksaan;9;kredit penting/kredit lainnya;mobil baru;1224;<100;1;3;pria lajang;tidak ada;1;perumahan;30;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;radio/tv;522;500;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;42;tidak ada;milik sendiri;2;terampil;2;ya;ya;baik
+<0;12;berbayar yang ada;radio/tv;1498;<100;1;4;wanita bercerai/menikah;tidak ada;1;mobil;23;bank;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;30;sebelumnya tertunda;radio/tv;1919;100;<1;4;pria lajang;tidak ada;3;tidak diketahui;30;toko;milik sendiri;2;kualifikasi tinggi;1;tidak;ya;buruk
+>=200;9;berbayar yang ada;radio/tv;745;<100;1;3;wanita bercerai/menikah;tidak ada;2;perumahan;28;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+0<=X<200;6;berbayar yang ada;radio/tv;2063;<100;<1;4;pria menikah/duda;tidak ada;3;mobil;30;tidak ada;sewa;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;60;berbayar yang ada;pendidikan;6288;<100;1;4;pria lajang;tidak ada;4;tidak diketahui;42;tidak ada;gratis;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;mobil bekas;6842;tidak diketahui;1;2;pria lajang;tidak ada;4;asuransi jiwa;46;tidak ada;milik sendiri;2;kualifikasi tinggi;2;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;mobil baru;3527;tidak diketahui;<1;2;pria lajang;tidak ada;3;asuransi jiwa;45;tidak ada;milik sendiri;1;kualifikasi tinggi;2;ya;ya;baik
+tidak ada pemeriksaan;10;berbayar yang ada;mobil baru;1546;<100;1;3;pria lajang;tidak ada;2;perumahan;31;tidak ada;milik sendiri;1;tidak terampil;2;tidak;tidak;baik
+tidak ada pemeriksaan;24;berbayar yang ada;perabot/perlengkapan;929;tidak diketahui;4;4;pria lajang;tidak ada;2;mobil;31;toko;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;4;kredit penting/kredit lainnya;mobil baru;1455;<100;4;2;pria lajang;tidak ada;1;perumahan;42;tidak ada;milik sendiri;3;tidak terampil;2;tidak;ya;baik
+<0;15;berbayar yang ada;perabot/perlengkapan;1845;<100;<1;4;wanita bercerai/menikah;penjamin;1;asuransi jiwa;46;tidak ada;sewa;1;terampil;1;tidak;ya;baik
+0<=X<200;48;tidak ada kredit/kredit lunas;mobil baru;8358;500;<1;1;wanita bercerai/menikah;tidak ada;1;mobil;30;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+<0;24;lunas seluruhnya;perabot/perlengkapan;3349;500;<1;4;pria lajang;tidak ada;4;tidak diketahui;30;tidak ada;gratis;1;terampil;2;ya;ya;buruk
+tidak ada pemeriksaan;12;berbayar yang ada;mobil baru;2859;tidak diketahui;tidak bekerja;4;pria lajang;tidak ada;4;tidak diketahui;38;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;18;berbayar yang ada;perabot/perlengkapan;1533;<100;<1;4;pria menikah/duda;pemohon bersama;1;asuransi jiwa;43;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;3621;100;>=7;2;pria lajang;tidak ada;4;mobil;31;tidak ada;milik sendiri;2;terampil;1;tidak;ya;buruk
+0<=X<200;18;kredit penting/kredit lainnya;bisnis;3590;<100;tidak bekerja;3;pria menikah/duda;tidak ada;3;mobil;40;tidak ada;milik sendiri;3;unemp/tidak terampil non res;2;ya;ya;baik
+<0;36;sebelumnya tertunda;bisnis;2145;<100;4;2;pria lajang;tidak ada;1;mobil;24;tidak ada;milik sendiri;2;terampil;1;ya;ya;buruk
+0<=X<200;24;berbayar yang ada;mobil bekas;4113;500;<1;3;wanita bercerai/menikah;tidak ada;4;mobil;28;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;36;berbayar yang ada;perabot/perlengkapan;10974;<100;tidak bekerja;4;wanita bercerai/menikah;tidak ada;2;mobil;26;tidak ada;milik sendiri;2;kualifikasi tinggi;1;ya;ya;buruk
+<0;12;berbayar yang ada;mobil baru;1893;<100;1;4;wanita bercerai/menikah;penjamin;4;asuransi jiwa;29;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+<0;24;kredit penting/kredit lainnya;radio/tv;1231;>=1000;>=7;4;wanita bercerai/menikah;tidak ada;4;asuransi jiwa;57;tidak ada;sewa;2;kualifikasi tinggi;1;ya;ya;baik
+>=200;30;kredit penting/kredit lainnya;radio/tv;3656;tidak diketahui;>=7;4;pria lajang;tidak ada;4;asuransi jiwa;49;toko;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+0<=X<200;9;kredit penting/kredit lainnya;radio/tv;1154;<100;>=7;2;pria lajang;tidak ada;4;perumahan;37;tidak ada;milik sendiri;3;tidak terampil;1;tidak;ya;baik
+<0;28;berbayar yang ada;mobil baru;4006;<100;1;3;pria lajang;tidak ada;2;mobil;45;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;buruk
+0<=X<200;24;berbayar yang ada;perabot/perlengkapan;3069;100;>=7;4;pria lajang;tidak ada;4;tidak diketahui;30;tidak ada;gratis;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;6;kredit penting/kredit lainnya;radio/tv;1740;<100;>=7;2;pria menikah/duda;tidak ada;2;perumahan;30;tidak ada;sewa;2;terampil;1;tidak;ya;baik
+0<=X<200;21;sebelumnya tertunda;mobil baru;2353;<100;1;1;pria bercerai;tidak ada;4;asuransi jiwa;47;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;15;berbayar yang ada;mobil baru;3556;tidak diketahui;1;3;pria lajang;tidak ada;2;tidak diketahui;29;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;radio/tv;2397;500;>=7;3;pria lajang;tidak ada;2;mobil;35;bank;milik sendiri;2;terampil;1;ya;ya;buruk
+0<=X<200;6;berbayar yang ada;perbaikan;454;<100;<1;3;pria menikah/duda;tidak ada;1;asuransi jiwa;22;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;30;berbayar yang ada;radio/tv;1715;tidak diketahui;1;4;wanita bercerai/menikah;tidak ada;1;mobil;26;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;27;kredit penting/kredit lainnya;radio/tv;2520;500;1;4;pria lajang;tidak ada;2;asuransi jiwa;23;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;15;berbayar yang ada;radio/tv;3568;<100;>=7;4;wanita bercerai/menikah;tidak ada;2;mobil;54;bank;sewa;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;42;berbayar yang ada;radio/tv;7166;tidak diketahui;4;2;pria menikah/duda;tidak ada;4;asuransi jiwa;29;tidak ada;sewa;1;terampil;1;ya;ya;baik
+<0;11;kredit penting/kredit lainnya;mobil baru;3939;<100;1;1;pria lajang;tidak ada;2;perumahan;40;tidak ada;milik sendiri;2;tidak terampil;2;tidak;ya;baik
+0<=X<200;15;berbayar yang ada;perbaikan;1514;100;1;4;pria lajang;penjamin;2;perumahan;22;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;berbayar yang ada;mobil baru;7393;<100;1;1;pria lajang;tidak ada;4;asuransi jiwa;43;tidak ada;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+<0;24;lunas seluruhnya;mobil baru;1193;<100;tidak bekerja;1;wanita bercerai/menikah;pemohon bersama;4;tidak diketahui;29;tidak ada;sewa;2;unemp/tidak terampil non res;1;tidak;ya;buruk
+<0;60;berbayar yang ada;bisnis;7297;<100;>=7;4;pria lajang;pemohon bersama;4;tidak diketahui;36;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;30;kredit penting/kredit lainnya;radio/tv;2831;<100;1;4;wanita bercerai/menikah;tidak ada;2;mobil;33;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+>=200;24;berbayar yang ada;radio/tv;1258;500;1;3;wanita bercerai/menikah;tidak ada;3;mobil;57;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+0<=X<200;6;berbayar yang ada;radio/tv;753;<100;1;2;wanita bercerai/menikah;penjamin;3;perumahan;64;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+0<=X<200;18;sebelumnya tertunda;bisnis;2427;tidak diketahui;>=7;4;pria lajang;tidak ada;2;asuransi jiwa;42;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;24;sebelumnya tertunda;mobil baru;2538;<100;>=7;4;pria lajang;tidak ada;4;mobil;47;tidak ada;milik sendiri;2;tidak terampil;2;tidak;ya;buruk
+0<=X<200;15;lunas seluruhnya;mobil baru;1264;100;1;2;pria menikah/duda;tidak ada;2;asuransi jiwa;25;tidak ada;sewa;1;terampil;1;tidak;ya;buruk
+0<=X<200;30;kredit penting/kredit lainnya;perabot/perlengkapan;8386;<100;4;2;pria lajang;tidak ada;2;asuransi jiwa;49;tidak ada;milik sendiri;1;terampil;1;tidak;ya;buruk
+tidak ada pemeriksaan;48;berbayar yang ada;bisnis;4844;<100;tidak bekerja;3;pria lajang;tidak ada;2;mobil;33;bank;sewa;1;kualifikasi tinggi;1;ya;ya;buruk
+>=200;21;berbayar yang ada;mobil baru;2923;100;1;1;wanita bercerai/menikah;tidak ada;1;mobil;28;bank;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+<0;36;berbayar yang ada;mobil bekas;8229;<100;1;2;pria lajang;tidak ada;2;asuransi jiwa;26;tidak ada;milik sendiri;1;terampil;2;tidak;ya;buruk
+tidak ada pemeriksaan;24;kredit penting/kredit lainnya;perabot/perlengkapan;2028;<100;4;2;pria lajang;tidak ada;2;asuransi jiwa;30;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+<0;15;kredit penting/kredit lainnya;perabot/perlengkapan;1433;<100;1;4;wanita bercerai/menikah;tidak ada;3;asuransi jiwa;25;tidak ada;sewa;2;terampil;1;tidak;ya;baik
+>=200;42;tidak ada kredit/kredit lunas;bisnis;6289;<100;<1;2;pria bercerai;tidak ada;1;asuransi jiwa;33;tidak ada;milik sendiri;2;terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;13;berbayar yang ada;radio/tv;1409;100;tidak bekerja;2;wanita bercerai/menikah;tidak ada;4;perumahan;64;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;24;berbayar yang ada;mobil bekas;6579;<100;tidak bekerja;4;pria lajang;tidak ada;2;tidak diketahui;29;tidak ada;gratis;1;kualifikasi tinggi;1;ya;ya;baik
+0<=X<200;24;kredit penting/kredit lainnya;radio/tv;1743;<100;>=7;4;pria lajang;tidak ada;2;asuransi jiwa;48;tidak ada;milik sendiri;2;tidak terampil;1;tidak;ya;baik
+tidak ada pemeriksaan;12;kredit penting/kredit lainnya;pendidikan;3565;tidak diketahui;<1;2;pria lajang;tidak ada;1;asuransi jiwa;37;tidak ada;milik sendiri;2;tidak terampil;2;tidak;ya;baik
+tidak ada pemeriksaan;15;lunas seluruhnya;radio/tv;1569;100;>=7;4;pria lajang;tidak ada;4;mobil;34;bank;milik sendiri;1;tidak terampil;2;tidak;ya;baik
+<0;18;berbayar yang ada;radio/tv;1936;tidak diketahui;4;2;pria menikah/duda;tidak ada;4;mobil;23;tidak ada;sewa;2;tidak terampil;1;tidak;ya;baik
+<0;36;berbayar yang ada;perabot/perlengkapan;3959;<100;tidak bekerja;4;pria lajang;tidak ada;3;asuransi jiwa;30;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;mobil baru;2390;tidak diketahui;>=7;4;pria lajang;tidak ada;3;mobil;50;tidak ada;milik sendiri;1;terampil;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;perabot/perlengkapan;1736;<100;4;3;wanita bercerai/menikah;tidak ada;4;perumahan;31;tidak ada;milik sendiri;1;tidak terampil;1;tidak;ya;baik
+<0;30;berbayar yang ada;mobil bekas;3857;<100;1;4;pria bercerai;tidak ada;4;asuransi jiwa;40;tidak ada;milik sendiri;1;kualifikasi tinggi;1;ya;ya;baik
+tidak ada pemeriksaan;12;berbayar yang ada;radio/tv;804;<100;>=7;4;pria lajang;tidak ada;4;mobil;38;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
+<0;45;berbayar yang ada;radio/tv;1845;<100;1;4;pria lajang;tidak ada;4;tidak diketahui;23;tidak ada;gratis;1;terampil;1;ya;ya;buruk
+0<=X<200;45;kredit penting/kredit lainnya;mobil bekas;4576;100;tidak bekerja;3;pria lajang;tidak ada;4;mobil;27;tidak ada;milik sendiri;1;terampil;1;tidak;ya;baik
