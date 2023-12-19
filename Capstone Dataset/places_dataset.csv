@@ -1,29 +1,29 @@
 Place_ID,Place_Name,Place_Location,Place_Region,Place_Price,Place_Rating,Place_Opening_Hours,Latitude,Longitude,Place_Category,Locate_URL
-1,Warung Babi Guling Pak Malen," Gianyar, Bali, Indonesia", East Bali,50000, 4.6, 10:00 AM – 8:00 PM,-8.6848,115.1691,Culinary,https://maps.app.goo.gl/UUumvGccvaaE8h9G7
-2,Warung Mak Beng," Sanur, Denpasar, Bali, Indonesia", East Bali,40000, 4.5, 9:00 AM – 5:00 PM,-8.67378,115.263,Culinary,https://maps.app.goo.gl/dZPoYLe5pGxKdTDg6
-3,Ibu Oka Babi Guling," Ubud, Gianyar, Bali, Indonesia", East Bali,50000,4.1,11:00 AM - 6:00 PM,-8.50577,115.2643,Culinary,https://maps.app.goo.gl/x1dkkdQ1dxGRz1An7
-4,Bebek Tepi Sawah Restaurant," Ubud, Gianyar, Bali, Indonesia", East Bali,150000, 4.5, 10:00 AM – 10:00 PM,-8.67198,115.165,Culinary,https://maps.app.goo.gl/ZQM7Pxw2sdUxzrWA9
-5,Locavore," Ubud, Gianyar, Bali, Indonesia", East Bali,790000, 4.8," 12:00 PM – 2:00 PM, 6:00 PM – 9:00 PM",-8.50996,115.2635,Culinary,https://maps.app.goo.gl/F2ttTG6qYiUBXhZE6
-6,Naughty Nuri's Warung," Ubud, Gianyar, Bali, Indonesia", East Bali,200000, 4.7, 11:00 AM – 10:30 PM,-8.49231,115.2533,Culinary,https://maps.app.goo.gl/Et13AyMLp3H4ezot5
-7,Bambu Indah Restaurant," Ubud, Gianyar, Bali, Indonesia", East Bali,250000, 4.5, 7:00 AM – 11:00 PM,-8.51273,115.2371,Culinary,https://maps.app.goo.gl/RDoCc3Szhbt7V5Ve8
-8,Swept Away at The Samaya," Ubud, Gianyar, Bali, Indonesia", East Bali,400000, 4.6, 11:00 AM – 11:00 PM,-8.51363,115.2372,Culinary,https://maps.app.goo.gl/vKbLxLSUFadKrxkPA
-9,Melting Wok Warung," Ubud, Gianyar, Bali, Indonesia", East Bali,100000, 4.7, 6:30 PM – 10:00 PM,-8.50953,115.2642,Culinary,https://maps.app.goo.gl/PQjiAT2yYvcGaAMA6
-10,The Sayan House," Ubud, Gianyar, Bali, Indonesia", East Bali,200000, 4.6, 12:00 PM – 10:00 PM,-8.49861,115.2438,Culinary,https://maps.app.goo.gl/tuGU435q11Z4NNh48
-11,Bridges Bali," Ubud, Gianyar, Bali, Indonesia", East Bali,350000, 4.6, 11:00 AM – 10:00 PM,-8.50507,115.2542,Culinary,https://maps.app.goo.gl/mAzrpAeGycBkZAmz8
-12,Clear Cafe," Ubud, Gianyar, Bali, Indonesia", East Bali,150000, 4.5, 8:00 AM – 10:00 PM,-8.50929,115.265,Culinary,https://maps.app.goo.gl/PNtLmhDkgaAJgpuZ8
-13,Moksa Plant-based Restaurant," Sayan, Ubud, Gianyar, Bali, Indonesia", East Bali,250000, 4.7, 11:00 AM – 10:00 PM,-8.50731,115.2456,Culinary,https://maps.app.goo.gl/QwHMF4ErkLqBzKpM6
-14,Kubu at Mandapa," Kedewatan, Ubud, Gianyar, Bali, Indonesia", East Bali,800000, 4.8, 6:30 PM – 10:30 PM,-8.48576,115.2443,Culinary,https://maps.app.goo.gl/aCDvBUAgr4GZUyyz6
-15,Bridges Bali," Ubud, Gianyar, Bali, Indonesia", East Bali,350000, 4.6, 11:00 AM – 10:00 PM,-8.50507,115.2542,Culinary,Double dengan B12?
-16,Uma Cucina," Ubud, Gianyar, Bali, Indonesia", East Bali,250000, 4.7, 12:00 PM – 10:30 PM,-8.49161,115.2536,Culinary,https://maps.app.goo.gl/jrkJ1jg2S6t5jYeF8
-17,Locavore To Go," Ubud, Gianyar, Bali, Indonesia", East Bali,200000, 4.6, 8:00 AM – 8:00 PM,-8.51038,115.2642,Culinary,https://maps.app.goo.gl/PyHgg9VfohvU7e8AA
-18,The Sayan House," Ubud, Gianyar, Bali, Indonesia", East Bali,200000, 4.6, 12:00 PM – 10:00 PM,-8.49861,115.2438,Culinary,Double dengan B11?
-19,Tepi Sawah Restaurant," Ubud, Gianyar, Bali, Indonesia", East Bali,150000, 4.5, 10:00 AM – 10:00 PM,-8.67198,115.165,Culinary,NA
-20,Swept Away at The Samaya," Ubud, Gianyar, Bali, Indonesia", East Bali,400000, 4.6, 11:00 AM – 11:00 PM,-8.51363,115.2372,Culinary,Double dengan B9?
-21,Melting Wok Warung," Ubud, Gianyar, Bali, Indonesia", East Bali,100000, 4.7, 6:30 PM – 10:00 PM,-8.50953,115.2642,Culinary,Double dengan B10?
-22,Dumbo," Gianyar, Bali, Indonesia", East Bali,50000, 4.4, 10:00 AM – 10:00 PM,-8.49847,115.2531,Culinary,https://maps.app.goo.gl/kj8ptHPHyJV6qub89
-23,Element Restaurant," Gianyar, Bali, Indonesia", East Bali,200000, 4.5, 7:00 AM – 11:00 PM,-8.50623,115.2529,Culinary,https://maps.app.goo.gl/EMKtWWzWV2zwxABSA
-24,Alchemy," Ubud, Gianyar, Bali, Indonesia", East Bali,150000, 4.6, 7:00 AM – 10:00 PM,-8.50623,115.2516,Culinary,https://maps.app.goo.gl/tjCCve2YqsLSWcKLA
-25,Warung Pondok Madu," Gianyar, Bali, Indonesia", East Bali,50000, 4.5, 8:00 AM – 10:00 PM,-8.5165,115.2663,Culinary,https://maps.app.goo.gl/a6EuZG1HTxYLBkX98
+1,Warung Babi Guling Pak Malen," Gianyar, Bali, Indonesia",East Bali,50000, 4.6, 10:00 AM – 8:00 PM,-8.6848,115.1691,Culinary,https://maps.app.goo.gl/UUumvGccvaaE8h9G7
+2,Warung Mak Beng," Sanur, Denpasar, Bali, Indonesia",East Bali,40000, 4.5, 9:00 AM – 5:00 PM,-8.67378,115.263,Culinary,https://maps.app.goo.gl/dZPoYLe5pGxKdTDg6
+3,Ibu Oka Babi Guling," Ubud, Gianyar, Bali, Indonesia",East Bali,50000,4.1,11:00 AM - 6:00 PM,-8.50577,115.2643,Culinary,https://maps.app.goo.gl/x1dkkdQ1dxGRz1An7
+4,Bebek Tepi Sawah Restaurant," Ubud, Gianyar, Bali, Indonesia",East Bali,150000, 4.5, 10:00 AM – 10:00 PM,-8.67198,115.165,Culinary,https://maps.app.goo.gl/ZQM7Pxw2sdUxzrWA9
+5,Locavore," Ubud, Gianyar, Bali, Indonesia",East Bali,790000, 4.8," 12:00 PM – 2:00 PM, 6:00 PM – 9:00 PM",-8.50996,115.2635,Culinary,https://maps.app.goo.gl/F2ttTG6qYiUBXhZE6
+6,Naughty Nuri's Warung," Ubud, Gianyar, Bali, Indonesia",East Bali,200000, 4.7, 11:00 AM – 10:30 PM,-8.49231,115.2533,Culinary,https://maps.app.goo.gl/Et13AyMLp3H4ezot5
+7,Bambu Indah Restaurant," Ubud, Gianyar, Bali, Indonesia",East Bali,250000, 4.5, 7:00 AM – 11:00 PM,-8.51273,115.2371,Culinary,https://maps.app.goo.gl/RDoCc3Szhbt7V5Ve8
+8,Swept Away at The Samaya," Ubud, Gianyar, Bali, Indonesia",East Bali,400000, 4.6, 11:00 AM – 11:00 PM,-8.51363,115.2372,Culinary,https://maps.app.goo.gl/vKbLxLSUFadKrxkPA
+9,Melting Wok Warung," Ubud, Gianyar, Bali, Indonesia",East Bali,100000, 4.7, 6:30 PM – 10:00 PM,-8.50953,115.2642,Culinary,https://maps.app.goo.gl/PQjiAT2yYvcGaAMA6
+10,The Sayan House," Ubud, Gianyar, Bali, Indonesia",East Bali,200000, 4.6, 12:00 PM – 10:00 PM,-8.49861,115.2438,Culinary,https://maps.app.goo.gl/tuGU435q11Z4NNh48
+11,Bridges Bali," Ubud, Gianyar, Bali, Indonesia",East Bali,350000, 4.6, 11:00 AM – 10:00 PM,-8.50507,115.2542,Culinary,https://maps.app.goo.gl/mAzrpAeGycBkZAmz8
+12,Clear Cafe," Ubud, Gianyar, Bali, Indonesia",East Bali,150000, 4.5, 8:00 AM – 10:00 PM,-8.50929,115.265,Culinary,https://maps.app.goo.gl/PNtLmhDkgaAJgpuZ8
+13,Moksa Plant-based Restaurant," Sayan, Ubud, Gianyar, Bali, Indonesia",East Bali,250000, 4.7, 11:00 AM – 10:00 PM,-8.50731,115.2456,Culinary,https://maps.app.goo.gl/QwHMF4ErkLqBzKpM6
+14,Kubu at Mandapa," Kedewatan, Ubud, Gianyar, Bali, Indonesia",East Bali,800000, 4.8, 6:30 PM – 10:30 PM,-8.48576,115.2443,Culinary,https://maps.app.goo.gl/aCDvBUAgr4GZUyyz6
+15,Bridges Bali," Ubud, Gianyar, Bali, Indonesia",East Bali,350000, 4.6, 11:00 AM – 10:00 PM,-8.50507,115.2542,Culinary,Double dengan B12?
+16,Uma Cucina," Ubud, Gianyar, Bali, Indonesia",East Bali,250000, 4.7, 12:00 PM – 10:30 PM,-8.49161,115.2536,Culinary,https://maps.app.goo.gl/jrkJ1jg2S6t5jYeF8
+17,Locavore To Go," Ubud, Gianyar, Bali, Indonesia",East Bali,200000, 4.6, 8:00 AM – 8:00 PM,-8.51038,115.2642,Culinary,https://maps.app.goo.gl/PyHgg9VfohvU7e8AA
+18,The Sayan House," Ubud, Gianyar, Bali, Indonesia",East Bali,200000, 4.6, 12:00 PM – 10:00 PM,-8.49861,115.2438,Culinary,Double dengan B11?
+19,Tepi Sawah Restaurant," Ubud, Gianyar, Bali, Indonesia",East Bali,150000, 4.5, 10:00 AM – 10:00 PM,-8.67198,115.165,Culinary,NA
+20,Swept Away at The Samaya," Ubud, Gianyar, Bali, Indonesia",East Bali,400000, 4.6, 11:00 AM – 11:00 PM,-8.51363,115.2372,Culinary,Double dengan B9?
+21,Melting Wok Warung," Ubud, Gianyar, Bali, Indonesia",East Bali,100000, 4.7, 6:30 PM – 10:00 PM,-8.50953,115.2642,Culinary,Double dengan B10?
+22,Dumbo," Gianyar, Bali, Indonesia",East Bali,50000, 4.4, 10:00 AM – 10:00 PM,-8.49847,115.2531,Culinary,https://maps.app.goo.gl/kj8ptHPHyJV6qub89
+23,Element Restaurant," Gianyar, Bali, Indonesia",East Bali,200000, 4.5, 7:00 AM – 11:00 PM,-8.50623,115.2529,Culinary,https://maps.app.goo.gl/EMKtWWzWV2zwxABSA
+24,Alchemy," Ubud, Gianyar, Bali, Indonesia",East Bali,150000, 4.6, 7:00 AM – 10:00 PM,-8.50623,115.2516,Culinary,https://maps.app.goo.gl/tjCCve2YqsLSWcKLA
+25,Warung Pondok Madu," Gianyar, Bali, Indonesia",East Bali,50000, 4.5, 8:00 AM – 10:00 PM,-8.5165,115.2663,Culinary,https://maps.app.goo.gl/a6EuZG1HTxYLBkX98
 26,Warung Bambu Pemaron," Pemaron, Lovina, Buleleng Regency, Bali, Indonesia", North Bali,100000, 4.5, 10:00 AM – 10:00 PM,-8.12935,115.0615,Culinary,https://maps.app.goo.gl/S277DCrUr6jQHyEn8
 27,Spice Beach Club," Lovina Beach, Lovina, Buleleng Regency, Bali, Indonesia", North Bali,200000, 4.6, 10:00 AM – 11:00 PM,-8.16403,115.0209,Culinary,https://maps.app.goo.gl/vpNLuGtK8oDXUksF9
 28,Jasmine Kitchen," Kalibukbuk, Lovina, Buleleng Regency, Bali, Indonesia", North Bali,80000, 4.5, 7:30 AM – 10:00 PM,-8.16163,115.0254,Culinary,https://maps.app.goo.gl/wxjTy5mUh5dijjV28
@@ -174,31 +174,31 @@ Place_ID,Place_Name,Place_Location,Place_Region,Place_Price,Place_Rating,Place_O
 173,The St. Regis Bali Resort," Kawasan Pariwisata, Nusa Dua, Badung Regency, Bali, Indonesia", South Bali,5000000, 4.8," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.8129,115.2276,Accomodation,https://maps.app.goo.gl/eLbtjFSEb5pSgVQT8
 174,The Westin Resort Nusa Dua," Kawasan Pariwisata, Nusa Dua, Badung Regency, Bali, Indonesia", South Bali,2500000, 4.6," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.79578,115.2303,Accomodation,https://maps.app.goo.gl/PpL18PxHyvEdhyrz9
 175,Courtyard by Marriott Bali Nusa Dua Resort," Kawasan Pariwisata, Nusa Dua, Badung Regency, Bali, Indonesia", South Bali,1500000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.80679,115.2261,Accomodation,https://maps.app.goo.gl/3a79Pjeuy7tDc4cm6
-176,Amankila," Manggis, Karangasem Regency, Bali, Indonesia", East Bali,8000000, 4.8," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50076,115.5275,Accomodation,https://maps.app.goo.gl/22YUt1Nyqh9FzGdV9
-177,Alila Manggis," Buitan, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,2500000, 4.6," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.4999,115.5377,Accomodation,https://maps.app.goo.gl/B8ccKjDevq3p4nqd9
-178,Ujung Resort," Tumbu, Karangasem Regency, Bali, Indonesia", East Bali,2000000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.46023,115.629,Accomodation,https://maps.app.goo.gl/hhvZ71rjSPmidSs3A
-179,Candi Beach Resort & Spa," Mendira Beach, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,1500000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50347,115.5524,Accomodation,https://maps.app.goo.gl/KDszC3Jt3tSRwtH39
-180,Lotus Bungalows," Jl. Raya Candidasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,1000000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.39401,115.1904,Accomodation,https://maps.app.goo.gl/gyZPJWyu9gbrJMNm7
-181,The Watergarden Hotel & Spa," Jl. Raya Candidasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,1200000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50819,115.5671,Accomodation,https://maps.app.goo.gl/Ph4be3Zd9Qg63Lge6
-182,Bali Palms Resort," Jl. Candi Dasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,900000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50665,115.5628,Accomodation,https://maps.app.goo.gl/9DZDjzwNxWqRiBiWA
-183,"Le 48, Zen & Happy Rezort"," Bugbug, Karangasem Regency, Bali, Indonesia", East Bali,500000, 4.2," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.71374,115.1811,Accomodation,https://maps.app.goo.gl/hGeYT287sMqn5ioZA
-184,Beji Bay Resort," Buitan, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,800000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.52991,115.5119,Accomodation,https://maps.app.goo.gl/xNRhoMFYqB1wQvvU8
-185,Palm Garden Amed Beach & Spa Resort," Bunutan, Abang, Karangasem Regency, Bali, Indonesia", East Bali,1000000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.3558,115.6904,Accomodation,https://maps.app.goo.gl/F9KN7sgd5DqwEKSN6
-186,Apa Kabar Villas," Bunutan, Abang, Karangasem Regency, Bali, Indonesia", East Bali,700000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.34287,115.669,Accomodation,https://maps.app.goo.gl/wBDVhHPXNf5erCSq6
-187,Bali Sunrise Villas & Restaurant," Jl. Raya Ujung, Seraya Bar., Karangasem Regency, Bali, Indonesia", East Bali,600000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.24667,115.3994,Accomodation,https://maps.app.goo.gl/aqAeiWsegDcLQSe99
-188,Villa Idanna," Bunutan, Abang, Karangasem Regency, Bali, Indonesia", East Bali,800000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.4655,115.4351,Accomodation,https://maps.app.goo.gl/ht5xUAgqw3m5PATSA
-189,Sama's Cottages and Villas," Buitan, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,600000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50695,115.2593,Accomodation,https://maps.app.goo.gl/ivoYM9uskgvjr2359
-190,Celuk Agung Hotel," Jl. Raya Amlapura, Purwakerti, Karangasem Regency, Bali, Indonesia", East Bali,500000, 4.2," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.14816,115.0443,Accomodation,https://maps.app.goo.gl/Qj5RLQ56gfcNi5mR8
-191,Pazzo Bali," Jl. Puri Bagus, Jasri, Karangasem Regency, Bali, Indonesia", East Bali,600000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.34554,115.6722,Accomodation,https://maps.app.goo.gl/yTQQxz8bu4VDmCrw8
-192,Bali Palms Resort," Jl. Raya Candidasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,900000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50667,115.5626,Accomodation,https://maps.app.goo.gl/9DZDjzwNxWqRiBiWA
-193,Santai Hotel," Jl. Raya Candi Dasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,700000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.238141317,115.6697743,Accomodation,https://maps.app.goo.gl/ogeWmoxnJ2aAYwri6
-194,Pondok Bambu Homestay," Buitan, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,400000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50043,115.2649,Accomodation,https://maps.app.goo.gl/3oZPYYav9zF3fPiP8
-195,Anom Beach Inn Bungalows," Jl. Raya Candidasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,500000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.40854,115.1889,Accomodation,https://maps.app.goo.gl/fB9aWnoJ3y2ZTtn97
-196,Dasa Vayu Cottage," Buitan, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,500000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.36406,115.1214,Accomodation,https://maps.app.goo.gl/D1XnbeJpHj8ijwVM6
-197,Villa Salema," Buitan, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,700000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.48395,115.6167,Accomodation,https://maps.app.goo.gl/NpY7ZipFxE4YNe9u8
-198,Mimpi Tulamben Dive Resort," Jl. Kubu, Tulamben, Kubu, Karangasem Regency, Bali, Indonesia", East Bali,800000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.27825,115.594,Accomodation,https://maps.app.goo.gl/Wgtv59j3bC4AiJ1v5
-199,Double One Villas Amed II," Jl. Raya Amed, Amed, Karangasem Regency, Bali, Indonesia", East Bali,600000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.35087,115.6823,Accomodation,https://maps.app.goo.gl/mDB3YvgieRH7Mtdg9
-200,Villa Infinite Horizon," Buitan, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,900000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.35848,115.6975,Accomodation,https://maps.app.goo.gl/nyjVSaYYpXDvwTCj6
+176,Amankila," Manggis, Karangasem Regency, Bali, Indonesia",East Bali,8000000, 4.8," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50076,115.5275,Accomodation,https://maps.app.goo.gl/22YUt1Nyqh9FzGdV9
+177,Alila Manggis," Buitan, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,2500000, 4.6," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.4999,115.5377,Accomodation,https://maps.app.goo.gl/B8ccKjDevq3p4nqd9
+178,Ujung Resort," Tumbu, Karangasem Regency, Bali, Indonesia",East Bali,2000000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.46023,115.629,Accomodation,https://maps.app.goo.gl/hhvZ71rjSPmidSs3A
+179,Candi Beach Resort & Spa," Mendira Beach, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,1500000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50347,115.5524,Accomodation,https://maps.app.goo.gl/KDszC3Jt3tSRwtH39
+180,Lotus Bungalows," Jl. Raya Candidasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,1000000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.39401,115.1904,Accomodation,https://maps.app.goo.gl/gyZPJWyu9gbrJMNm7
+181,The Watergarden Hotel & Spa," Jl. Raya Candidasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,1200000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50819,115.5671,Accomodation,https://maps.app.goo.gl/Ph4be3Zd9Qg63Lge6
+182,Bali Palms Resort," Jl. Candi Dasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,900000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50665,115.5628,Accomodation,https://maps.app.goo.gl/9DZDjzwNxWqRiBiWA
+183,"Le 48, Zen & Happy Rezort"," Bugbug, Karangasem Regency, Bali, Indonesia",East Bali,500000, 4.2," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.71374,115.1811,Accomodation,https://maps.app.goo.gl/hGeYT287sMqn5ioZA
+184,Beji Bay Resort," Buitan, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,800000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.52991,115.5119,Accomodation,https://maps.app.goo.gl/xNRhoMFYqB1wQvvU8
+185,Palm Garden Amed Beach & Spa Resort," Bunutan, Abang, Karangasem Regency, Bali, Indonesia",East Bali,1000000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.3558,115.6904,Accomodation,https://maps.app.goo.gl/F9KN7sgd5DqwEKSN6
+186,Apa Kabar Villas," Bunutan, Abang, Karangasem Regency, Bali, Indonesia",East Bali,700000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.34287,115.669,Accomodation,https://maps.app.goo.gl/wBDVhHPXNf5erCSq6
+187,Bali Sunrise Villas & Restaurant," Jl. Raya Ujung, Seraya Bar., Karangasem Regency, Bali, Indonesia",East Bali,600000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.24667,115.3994,Accomodation,https://maps.app.goo.gl/aqAeiWsegDcLQSe99
+188,Villa Idanna," Bunutan, Abang, Karangasem Regency, Bali, Indonesia",East Bali,800000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.4655,115.4351,Accomodation,https://maps.app.goo.gl/ht5xUAgqw3m5PATSA
+189,Sama's Cottages and Villas," Buitan, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,600000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50695,115.2593,Accomodation,https://maps.app.goo.gl/ivoYM9uskgvjr2359
+190,Celuk Agung Hotel," Jl. Raya Amlapura, Purwakerti, Karangasem Regency, Bali, Indonesia",East Bali,500000, 4.2," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.14816,115.0443,Accomodation,https://maps.app.goo.gl/Qj5RLQ56gfcNi5mR8
+191,Pazzo Bali," Jl. Puri Bagus, Jasri, Karangasem Regency, Bali, Indonesia",East Bali,600000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.34554,115.6722,Accomodation,https://maps.app.goo.gl/yTQQxz8bu4VDmCrw8
+192,Bali Palms Resort," Jl. Raya Candidasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,900000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50667,115.5626,Accomodation,https://maps.app.goo.gl/9DZDjzwNxWqRiBiWA
+193,Santai Hotel," Jl. Raya Candi Dasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,700000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.238141317,115.6697743,Accomodation,https://maps.app.goo.gl/ogeWmoxnJ2aAYwri6
+194,Pondok Bambu Homestay," Buitan, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,400000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.50043,115.2649,Accomodation,https://maps.app.goo.gl/3oZPYYav9zF3fPiP8
+195,Anom Beach Inn Bungalows," Jl. Raya Candidasa, Sengkidu, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,500000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.40854,115.1889,Accomodation,https://maps.app.goo.gl/fB9aWnoJ3y2ZTtn97
+196,Dasa Vayu Cottage," Buitan, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,500000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.36406,115.1214,Accomodation,https://maps.app.goo.gl/D1XnbeJpHj8ijwVM6
+197,Villa Salema," Buitan, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,700000, 4.4," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.48395,115.6167,Accomodation,https://maps.app.goo.gl/NpY7ZipFxE4YNe9u8
+198,Mimpi Tulamben Dive Resort," Jl. Kubu, Tulamben, Kubu, Karangasem Regency, Bali, Indonesia",East Bali,800000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.27825,115.594,Accomodation,https://maps.app.goo.gl/Wgtv59j3bC4AiJ1v5
+199,Double One Villas Amed II," Jl. Raya Amed, Amed, Karangasem Regency, Bali, Indonesia",East Bali,600000, 4.3," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.35087,115.6823,Accomodation,https://maps.app.goo.gl/mDB3YvgieRH7Mtdg9
+200,Villa Infinite Horizon," Buitan, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,900000, 4.5," Check-in: 2:00 PM, Check-out: 12:00 PM",-8.35848,115.6975,Accomodation,https://maps.app.goo.gl/nyjVSaYYpXDvwTCj6
 201,Lovina Beach," Anturan, Buleleng, Buleleng Regency, Bali, Indonesia", North Bali,0, 4.4, Open 24 hours,-8.1593111,115.0256334,Nautical,https://maps.app.goo.gl/xo4jBH9ByWC7UvFg7
 202,Gitgit Waterfall," Gitgit, Sukasada, Buleleng Regency, Bali, Indonesia", North Bali,20000, 4.5, Open 24 hours,-8.1935621,115.1350753,Nature,https://maps.app.goo.gl/4PYNc2LESgEq3XVk7
 203,Banjar Hot Springs," Banjar, Buleleng Regency, Bali, Indonesia", North Bali,10000, 4.3, 8:00 AM – 6:00 PM,-8.21046175,114.9671623,Nature,https://maps.app.goo.gl/ioBoaUaWsaqvZsT37
@@ -249,31 +249,31 @@ Place_ID,Place_Name,Place_Location,Place_Region,Place_Price,Place_Rating,Place_O
 248,Pura Lempuyang Luhur," Bunutan, Abang, Karangasem Regency, Bali, Indonesia", South Bali,10000, 4.6, Open 24 hours,-8.3951892,115.6480606,History,https://maps.app.goo.gl/jpMCY7EEHRErUD548
 249,Tegallalang Rice Terraces," Tegallalang, Gianyar, Bali, Indonesia", South Bali,0, 4.5, Open 24 hours,-8.43358225,115.2794557,Nature,https://maps.app.goo.gl/Z88fAxThXgQ9XjCi8
 250,Pantai Melasti," Ungasan, South Kuta, Badung Regency, Bali, Indonesia", South Bali,0, 4.5, Open 24 hours,-8.71821365,115.1687568,Nautical,https://maps.app.goo.gl/L3orHMfszrBT1fvF7
-251,Goa Lawah Temple," Pesinggahan, Dawan, Klungkung Regency, Bali, Indonesia", East Bali,30000, 4.4, Open 24 hours,-8.5515251,115.4689715,History,https://maps.app.goo.gl/5AzhGQ8yTS9JXxMv9
-252,Tirta Gangga," Ababi, Abang, Karangasem Regency, Bali, Indonesia", East Bali,40000, 4.5, 7:00 AM – 7:00 PM,-8.4115957,115.5874437,Nature,https://maps.app.goo.gl/EpMK9AMSD79bYsZr7
-253,Candidasa," Karangasem Regency, Bali, Indonesia", East Bali,0, 4.4, Open 24 hours,-8.5097035,115.5715862,Nautical,https://maps.app.goo.gl/wJvGj7RLYJfbkGqZA
-254,Tenganan Village," Tenganan, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,10000, 4.5, Open 24 hours,-8.4746834,115.5666957,History,https://maps.app.goo.gl/6Dab98yE1MJB3S5D6
-255,White Sand Beach (Bias Tugel)," Karangasem Regency, Bali, Indonesia", East Bali,5000, 4.4, Open 24 hours,-8.5363233,115.5089537,Nautical,https://maps.app.goo.gl/BzcAPV4knybLv9ty9
-256,Ujung Water Palace," Seraya, Karangasem Regency, Bali, Indonesia", East Bali,30000, 4.4, 7:00 AM – 7:00 PM,-8.46454605,115.6304955,History,https://maps.app.goo.gl/3uq2oEZR6nSpLGa66
-257,Amed," Karangasem Regency, Bali, Indonesia", East Bali,0, 4.4, Open 24 hours,-8.332331601,115.6584278,Nautical,https://maps.app.goo.gl/W26QkHpDvEstB5Mo8
-258,Pura Lempuyang Temple," Besakih, Rendang, Karangasem Regency, Bali, Indonesia", East Bali,15000, 4.6, Open 24 hours,-8.3937352,115.6399616,History,https://maps.app.goo.gl/M3PggSNazHvqucFA9
-259,Mount Agung," Karangasem Regency, Bali, Indonesia", East Bali,0, 4.6, Open 24 hours,-8.3428923,115.5072076,Nature,https://maps.app.goo.gl/Nbb7etUDFt9PKLEe8
-260,Tirta Empul Temple," Manukaya, Tampaksiring, Gianyar, Bali, Indonesia", East Bali,30000, 4.5, 7:00 AM – 6:00 PM,-8.41493385,115.3160258,History,https://maps.app.goo.gl/e3G8XWzKVM8dmiq16
-261,Penglipuran Village," Kubu, Bangli Regency, Bali, Indonesia", East Bali,30000, 4.5, Open 24 hours,-8.4219004,115.3586802,History,https://maps.app.goo.gl/W4CFKtHBQiZu9W5s8
-262,Sidemen Valley," Sidemen, Karangasem Regency, Bali, Indonesia", East Bali,0, 4.4, Open 24 hours,-8.4646476,115.4482101,Nature,https://maps.app.goo.gl/BsuNHHGKr56JENom8
-263,Besakih Temple," Besakih, Rendang, Karangasem Regency, Bali, Indonesia", East Bali,75000, 4.5, Open 24 hours,-8.3232422,115.4463963,History,https://maps.app.goo.gl/mSMdHe9eAfZRLpy77
-264,Bukit Asah Bugbug," Karangasem Regency, Bali, Indonesia", East Bali,0, 4.4, Open 24 hours,-8.4947581,115.5960209,Nature,https://maps.app.goo.gl/UCGkG7JdcDWJusXE9
-265,Taman Soekasada Ujung," Tumbu, Karangasem Regency, Bali, Indonesia", East Bali,20000, 4.4, 8:00 AM – 6:00 PM,-8.46276597,115.6306309,History,https://maps.app.goo.gl/3uq2oEZR6nSpLGa66
-266,Tukad Cepung Waterfall," Tembuku, Bangli Regency, Bali, Indonesia", East Bali,15000, 4.5, 6:30 AM – 6:30 PM,-8.4423213,115.3879035,Nature,https://maps.app.goo.gl/3sN6eD5gF9HYzsEj6
-267,Blue Lagoon Beach," Padangbai, Karangasem Regency, Bali, Indonesia", East Bali,5000, 4.5, Open 24 hours,-8.52457371,115.5143182,Nautical,https://maps.app.goo.gl/s5KaiHdH8DwKXwca9
-268,Goa Gala-Gala," Nusa Lembongan, Klungkung Regency, Bali, Indonesia", East Bali,20000, 4.4, 8:00 AM – 6:00 PM,-8.69168548,115.4397425,History,https://maps.app.goo.gl/ybAYtgZKnuFFazgq8
-269,Tibumana Waterfall," Apuan, Bangli Regency, Bali, Indonesia", East Bali,15000, 4.5, 6:00 AM – 6:00 PM,-8.5068009,115.3330647,Nature,https://maps.app.goo.gl/yS2rMwmbJ7XHdQBa9
-270,Goa Raja Waterfall," Bangli Regency, Bali, Indonesia", East Bali,15000, 4.4, 6:00 AM – 6:00 PM,-8.4384338,115.3723328,Nature,https://maps.app.goo.gl/2jhTGqmEW1ezmf1x8
-271,Pura Dalem Penetaran Ped," Klungkung, Klungkung Regency, Bali, Indonesia", East Bali,0, 4.5, Open 24 hours,-8.2738432,114.5285393,History,https://maps.app.goo.gl/ybJHXybyUio3ehPz7
-272,Bukit Teletubbies (Teletubbies Hill)," Karangasem Regency, Bali, Indonesia", East Bali,0, 4.3, Open 24 hours,-8.78517273,115.5747413,Nature,https://maps.app.goo.gl/g2tjcV1DPR2snCPv6
-273,Pantai Jasri," Karangasem Regency, Bali, Indonesia", East Bali,0, 4.4, Open 24 hours,-8.4774795,115.6228469,Nautical,https://maps.app.goo.gl/HZdMxr2qpWVpdwWy9
-274,Nusa Penida Island," Nusa Penida, Klungkung Regency, Bali, Indonesia", East Bali,0, 4.5, Open 24 hours,-8.74565245,115.534745,Nautical,https://maps.app.goo.gl/ZFcZkbD97Q2qCtdH6
-275,Tenganan Pegringsingan," Tenganan, Manggis, Karangasem Regency, Bali, Indonesia", East Bali,15000, 4.5, Open 24 hours,-8.4746834,115.5666957,History,https://maps.app.goo.gl/6Dab98yE1MJB3S5D6
+251,Goa Lawah Temple," Pesinggahan, Dawan, Klungkung Regency, Bali, Indonesia",East Bali,30000, 4.4, Open 24 hours,-8.5515251,115.4689715,History,https://maps.app.goo.gl/5AzhGQ8yTS9JXxMv9
+252,Tirta Gangga," Ababi, Abang, Karangasem Regency, Bali, Indonesia",East Bali,40000, 4.5, 7:00 AM – 7:00 PM,-8.4115957,115.5874437,Nature,https://maps.app.goo.gl/EpMK9AMSD79bYsZr7
+253,Candidasa," Karangasem Regency, Bali, Indonesia",East Bali,0, 4.4, Open 24 hours,-8.5097035,115.5715862,Nautical,https://maps.app.goo.gl/wJvGj7RLYJfbkGqZA
+254,Tenganan Village," Tenganan, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,10000, 4.5, Open 24 hours,-8.4746834,115.5666957,History,https://maps.app.goo.gl/6Dab98yE1MJB3S5D6
+255,White Sand Beach (Bias Tugel)," Karangasem Regency, Bali, Indonesia",East Bali,5000, 4.4, Open 24 hours,-8.5363233,115.5089537,Nautical,https://maps.app.goo.gl/BzcAPV4knybLv9ty9
+256,Ujung Water Palace," Seraya, Karangasem Regency, Bali, Indonesia",East Bali,30000, 4.4, 7:00 AM – 7:00 PM,-8.46454605,115.6304955,History,https://maps.app.goo.gl/3uq2oEZR6nSpLGa66
+257,Amed," Karangasem Regency, Bali, Indonesia",East Bali,0, 4.4, Open 24 hours,-8.332331601,115.6584278,Nautical,https://maps.app.goo.gl/W26QkHpDvEstB5Mo8
+258,Pura Lempuyang Temple," Besakih, Rendang, Karangasem Regency, Bali, Indonesia",East Bali,15000, 4.6, Open 24 hours,-8.3937352,115.6399616,History,https://maps.app.goo.gl/M3PggSNazHvqucFA9
+259,Mount Agung," Karangasem Regency, Bali, Indonesia",East Bali,0, 4.6, Open 24 hours,-8.3428923,115.5072076,Nature,https://maps.app.goo.gl/Nbb7etUDFt9PKLEe8
+260,Tirta Empul Temple," Manukaya, Tampaksiring, Gianyar, Bali, Indonesia",East Bali,30000, 4.5, 7:00 AM – 6:00 PM,-8.41493385,115.3160258,History,https://maps.app.goo.gl/e3G8XWzKVM8dmiq16
+261,Penglipuran Village," Kubu, Bangli Regency, Bali, Indonesia",East Bali,30000, 4.5, Open 24 hours,-8.4219004,115.3586802,History,https://maps.app.goo.gl/W4CFKtHBQiZu9W5s8
+262,Sidemen Valley," Sidemen, Karangasem Regency, Bali, Indonesia",East Bali,0, 4.4, Open 24 hours,-8.4646476,115.4482101,Nature,https://maps.app.goo.gl/BsuNHHGKr56JENom8
+263,Besakih Temple," Besakih, Rendang, Karangasem Regency, Bali, Indonesia",East Bali,75000, 4.5, Open 24 hours,-8.3232422,115.4463963,History,https://maps.app.goo.gl/mSMdHe9eAfZRLpy77
+264,Bukit Asah Bugbug," Karangasem Regency, Bali, Indonesia",East Bali,0, 4.4, Open 24 hours,-8.4947581,115.5960209,Nature,https://maps.app.goo.gl/UCGkG7JdcDWJusXE9
+265,Taman Soekasada Ujung," Tumbu, Karangasem Regency, Bali, Indonesia",East Bali,20000, 4.4, 8:00 AM – 6:00 PM,-8.46276597,115.6306309,History,https://maps.app.goo.gl/3uq2oEZR6nSpLGa66
+266,Tukad Cepung Waterfall," Tembuku, Bangli Regency, Bali, Indonesia",East Bali,15000, 4.5, 6:30 AM – 6:30 PM,-8.4423213,115.3879035,Nature,https://maps.app.goo.gl/3sN6eD5gF9HYzsEj6
+267,Blue Lagoon Beach," Padangbai, Karangasem Regency, Bali, Indonesia",East Bali,5000, 4.5, Open 24 hours,-8.52457371,115.5143182,Nautical,https://maps.app.goo.gl/s5KaiHdH8DwKXwca9
+268,Goa Gala-Gala," Nusa Lembongan, Klungkung Regency, Bali, Indonesia",East Bali,20000, 4.4, 8:00 AM – 6:00 PM,-8.69168548,115.4397425,History,https://maps.app.goo.gl/ybAYtgZKnuFFazgq8
+269,Tibumana Waterfall," Apuan, Bangli Regency, Bali, Indonesia",East Bali,15000, 4.5, 6:00 AM – 6:00 PM,-8.5068009,115.3330647,Nature,https://maps.app.goo.gl/yS2rMwmbJ7XHdQBa9
+270,Goa Raja Waterfall," Bangli Regency, Bali, Indonesia",East Bali,15000, 4.4, 6:00 AM – 6:00 PM,-8.4384338,115.3723328,Nature,https://maps.app.goo.gl/2jhTGqmEW1ezmf1x8
+271,Pura Dalem Penetaran Ped," Klungkung, Klungkung Regency, Bali, Indonesia",East Bali,0, 4.5, Open 24 hours,-8.2738432,114.5285393,History,https://maps.app.goo.gl/ybJHXybyUio3ehPz7
+272,Bukit Teletubbies (Teletubbies Hill)," Karangasem Regency, Bali, Indonesia",East Bali,0, 4.3, Open 24 hours,-8.78517273,115.5747413,Nature,https://maps.app.goo.gl/g2tjcV1DPR2snCPv6
+273,Pantai Jasri," Karangasem Regency, Bali, Indonesia",East Bali,0, 4.4, Open 24 hours,-8.4774795,115.6228469,Nautical,https://maps.app.goo.gl/HZdMxr2qpWVpdwWy9
+274,Nusa Penida Island," Nusa Penida, Klungkung Regency, Bali, Indonesia",East Bali,0, 4.5, Open 24 hours,-8.74565245,115.534745,Nautical,https://maps.app.goo.gl/ZFcZkbD97Q2qCtdH6
+275,Tenganan Pegringsingan," Tenganan, Manggis, Karangasem Regency, Bali, Indonesia",East Bali,15000, 4.5, Open 24 hours,-8.4746834,115.5666957,History,https://maps.app.goo.gl/6Dab98yE1MJB3S5D6
 276,Menjangan Island," Buleleng Regency, Bali, Indonesia", West Bali,200000, 4.7, Open 24 hours,-8.09601895,114.5177964,Nautical,https://maps.app.goo.gl/aYobNKU67iGyBALV7
 277,West Bali National Park," Buleleng Regency, Bali, Indonesia", West Bali,200000, 4.5, 7:00 AM – 6:00 PM,-8.16723015,114.4626955,Nature,https://maps.app.goo.gl/WS9ig2nQGWnWgma97
 278,Pemuteran," Gerokgak, Buleleng Regency, Bali, Indonesia", West Bali,0, 4.5, Open 24 hours,-8.1600279,114.6135304,Nautical,https://maps.app.goo.gl/istAeHiGco6ChhRr9
