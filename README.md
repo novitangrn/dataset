@@ -1,1 +1,3 @@
-The repository contains a collection of datasets for programming practice. Most of the datasets are sourced from various platforms such as Kaggle and others. The available datasets consist of supervised datasets or unlabeled numerical datasets.
+# Programming Practice Datasets
+
+This repository contains a collection of datasets that you can use for programming practice. The datasets are primarily sourced from platforms like Kaggle and other reliable sources. The datasets provided here include both supervised datasets, which have labeled data, and unlabeled numerical datasets.
