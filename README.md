@@ -1,0 +1,1 @@
+The repository contains a collection of datasets for programming practice. Most of the datasets are sourced from various platforms such as Kaggle and others. The available datasets consist of supervised datasets or unlabeled numerical datasets.
